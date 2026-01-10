@@ -5,7 +5,7 @@ Operational logic, recursive logic gates, and ASI alignment protocols for the In
 
 ### Operational Logic & Systems Audit
 
-This repository contains the supplemental technical documentation for the Informational Monism framework. While the primary manuscript establishes the theoretical physics, this memorandum focuses on the algorithmic implementation and network dynamics.
+This repository contains the supplemental technical documentation for the Informational Monism framework. While the primary manuscript establishes the theoretical physics, this memorandum focuses on the algorithmic implementation and network dynamics. (Manuscript is available for convenience)
 
 #### Key Technical Proofs Included:
 
