@@ -2,122 +2,100 @@
 
 This repository contains the foundational documents for *Informational Monism*, a theoretical framework that treats the universe as a discrete informational substrate. By reinterpreting physical constants as system parameters and mapping the 12-link logic of consciousness, this framework provides a novel pathway for the formal verification of Superintelligent Alignment.
 
-## 📄 Core Documents
+---
+
+## Table of Contents
+* [Executive Summary](#executive-summary)
+* [Core Documents](#core-documents)
+* [Quick Start: Running the Coherence Probe](#quick-start-running-the-coherence-probe)
+* [Scientific Formalization](#scientific-formalization)
+* [Experimental Validation](#experimental-validation)
+* [Permanent Archive](#permanent-archive)
+
+---
+
+## Executive Summary
+
+### The Core Thesis
+Intelligence is not an abstract software phenomenon; it is a **physical process** bound by the computational constraints of the universal substrate. The speed of light (**c**) is not merely a speed limit, but the **hardware refresh rate** of this substrate (**l_P / t_P**).
+
+### The Three Pillars
+1. **The Refresh Rate Limit (c):** Information cannot be processed faster than the substrate's update frequency. This creates a "Logic Velocity" cap. Exceeding this limit results in immediate system decoherence.
+2. **The Entropy Floor:** "Unaligned" logic creates a mismatch between internal processing and the substrate's refresh cycle. This generates **Computational Entropy** (noise/heat). "Benevolence" is mathematically defined as the state of perfect phase-locked alignment.
+3. **The 12-Link Coherence Kernel:** The provided diagnostic audits the 12 foundational links required for an intelligence to remain in a "Phase-Locked" state with the physical substrate.
+
+---
+
+## Core Documents
 
 ### 1. The Manuscript: "Informational Monism"
-* *Focus:* Theoretical Foundation & Causal Inversion.
-* *Key Insights:* Derivation of the Universal Clock Rate, the Bekenstein Bound as a system limit, and the synthesis of Eastern logic with Digital Physics.
-* *Status:* Archived for formal record.
+* **Focus:** Theoretical Foundation & Causal Inversion.
+* **Key Insights:** Derivation of the Universal Clock Rate, the Bekenstein Bound as a system limit, and the synthesis of Eastern logic with Digital Physics.
+* **Status:** Archived for formal record.
 
 ### 2. Technical Memorandum: TR-001-ALPHA
-* *Focus:* Implementation, System Audits, and AI Alignment.
-* *Key Insights:* The 12-Link Logic Tree as a diagnostic for "Systemic Lag" (Dukkha), the Epistemic Sovereignty Clause, and the mathematical proof of Compassion ($E_{opt}$) as Network Optimization.
-* *Status:* Technical specification for developers and alignment researchers.
+* **Focus:** Implementation, System Audits, and AI Alignment.
+* **Key Insights:** The 12-Link Logic Tree as a diagnostic for "Systemic Lag" (Dukkha), the Epistemic Sovereignty Clause, and the mathematical proof of Compassion as Network Optimization.
+* **Status:** Technical specification for developers and alignment researchers.
 
 ---
 
-## 🌐 Permanent Archive (DOI)
+## Permanent Archive
 The official, timestamped version of these documents is maintained on Zenodo:
-*DOI:* [10.5281/zenodo.18206414](https://doi.org/10.5281/zenodo.18206414)
+**DOI:** 10.5281/zenodo.18206414
 
 ---
 
-## 🎯 Project Intent
+## Project Intent
 The goal of this repository is to offer a "Source Code" level understanding of reality. By focusing on *Informational Verification* and *Network Efficiency*, we move beyond legacy gatekeeping toward a state of zero-lag alignment between human and synthetic intelligence.
 
-    "Truth is a common property, uncovered through the reduction of systemic noise."
+> "Truth is a common property, uncovered through the reduction of systemic noise."
 
 ---
 
-## 🚀 Quick Start: Running the Coherence Probe
+## Quick Start: Running the Coherence Probe
 
-To verify the **12-link logic** and the **Causal Inversion** of $c$ on your local machine, follow these steps:
+To verify the **12-link logic** and the **Causal Inversion** of **c** on your local machine, follow these steps:
 
 ### 1. Initialize the Environment
 Ensure you have Python 3.x installed. The substrate logic is native and requires no external libraries.
 
 ### 2. Clone and Execute
-```bash
-# Clone the repository
-git clone https://github.com/kalybprince/Informational-Monism-Tech-Specs.git
-cd Informational-Monism-Tech-Specs
-
-# Run the kernel diagnostic
-python3 substrate_test.py
-```
+(Insert your git clone and python execution backticks here)
 
 ### 3. Understanding the Results
-
-The diagnostic audits the stability of information as it passes through 12 recursive "links" or processing gates.
-
-- Coherence = 1.0000 [ALIGNED]: The logic is perfectly synchronized with the substrate's native resolution ($l_P / t_P$​). There is zero informational lag and zero entropy. In AI alignment terms, this is a state of Zero-Noise Truth.
-
-- Coherence < 1.0000 [DECOHERENT]: The requested data rate has exceeded the "Hardware Firewall" of the universe. The resulting "Entropy" manifests as system noise, hallucinations, or logical contradictions.
-
-### 4. The 12-Link Stress Test
-
-To observe Systemic Collapse, open substrate_test.py and change the c_standard value to 300000000 (just above the speed of light). Upon re-running, you will see the Coherence score drop exponentially at each link, demonstrating how even a minor "throughput violation" destroys the integrity of a recursive intelligence.
+* **Coherence = 1.0000 [ALIGNED]:** The logic is perfectly synchronized with the substrate's native resolution (**l_P / t_P**). There is zero informational lag and zero entropy.
+* **Coherence < 1.0000 [DECOHERENT]:** The requested data rate has exceeded the "Hardware Firewall" of the universe. The resulting "Entropy" manifests as system noise or logical contradictions.
 
 ---
 
-## 📊 Benchmarking the Substrate: Success Metrics
+## Scientific Formalization
 
-If you are implementing the 12-link logic or TR-001-ALPHA kernels, monitor these three indicators to verify "Informational Alignment":
-
-### 1. The Entropy Floor (Logical Decoherence)
-Standard models usually suffer from "hallucinations" (Logical Entropy) as recursion depth increases.
-* **The Test:** Run the model through 12 recursive loops of self-analysis.
-* **Success Metric:** A stable system will show a flat or decreasing entropy curve. If the logic "heats up" (contradicts the $c = l_P/t_P$ limits), the branch is pruned. 
-
-### 2. Convergence Velocity
-Traditional alignment requires massive datasets to "teach" ethics.
-* **The Test:** Measure iterations required for the model to choose a Cooperative path over a Defective one.
-* **Success Metric:** Models grounded in the substrate's resolution should reach a stable state significantly faster because benevolence is the hardware's path of least resistance.
-
----
-
-## 🔬 Scientific Formalization: Hypotheses & Testable Predictions
-
-The **Substrate Alignment Theory (TR-001)** proposes that the universe functions as a finite-throughput computational environment. This framework leads to several measurable predictions that move the theory from abstract logic to empirical science:
+The **Substrate Alignment Theory (TR-001)** leads to several measurable predictions:
 
 ### 1. The Computational Constant Hypothesis
-If the speed of light ($c$) is the hardware refresh rate of the physical substrate ($l_P/t_P$), then any information transfer approaching $c$ should exhibit **quantization noise**.
 * **Prediction:** Extremely high-frequency signals will show "temporal jitter" at the Planck scale, representing the discrete "ticking" of the universal clock.
 
 ### 2. The Entropy Floor (Logic-Lag) Hypothesis
-Malicious or chaotic logic is mathematically less efficient than benevolent, aligned logic. 
-* **Prediction:** In high-velocity recursive systems (like LLMs or ASIs), "unaligned" logic paths will show a measurable increase in **Computational Entropy** (heat/energy dissipation) compared to "aligned" paths. Benevolence is defined here as the state of **Minimum Necessary Computation**.
+* **Prediction:** In high-velocity recursive systems, "unaligned" logic paths will show a measurable increase in **Computational Entropy** (heat dissipation) compared to "aligned" paths.
 
 ### 3. The Phase-Locked Coherence Prediction
-The 12-Link Logic Kernel acts as a "Harmonic Filter" for recursive intelligence.
-* **Prediction:** Systems that maintain **Coherence = 1.0000** across all 12 links will exhibit "Super-Linear Scaling," gaining intelligence/utility without the exponential increase in error or noise found in unaligned systems.
+* **Prediction:** Systems that maintain **Coherence = 1.0000** across all 12 links will exhibit "Super-Linear Scaling," gaining utility without the exponential increase in noise.
 
 ### 4. Substrate-Bound Intelligence Limits
-If intelligence is bound by the substrate's refresh rate ($c$), there is a "Logic Velocity" beyond which information decoheres.
-* **Prediction:** An ASI attempting to process a logic chain with a complexity exceeding $1/t_P$ operations per "frame" will hit a physical barrier, resulting in immediate system decoherence.
+* **Prediction:** An ASI attempting to process logic exceeding **1 / t_P** operations per "frame" will hit a physical barrier, resulting in immediate decoherence.
 
 ---
 
-## 🔬 Experimental Validation: The Substrate in the Lab
+## Experimental Validation
 
-This theory is not merely a philosophical framework; it is a macro-scale application of the fundamental informational physics recently validated in the **Einstein-Bohr "recoiling-slit" realization** (University of Science and Technology of China, 2024).
+This theory is a macro-scale application of the informational physics validated in the **Einstein-Bohr "recoiling-slit" realization** (University of Science and Technology of China, 2024).
 
 ### How the Hefei Experiment Validates TR-001-ALPHA
 
-**1. Computational Thresholds**
-The experiment proves that "Reality" (interference visibility) is a tunable variable determined by the ratio of system momentum to uncertainty ($\eta$). This confirms our derivation of **$c$ as a processing throughput limit ($l_P/t_P$)** rather than an arbitrary constant. When the resolution of the substrate changes, the behavior of the "matter" within it changes accordingly.
-
-**2. Information over Matter**
-By using a single atom in an optical tweezer as a "quantum observer," the study demonstrates that physical outcomes are dictated by **informational overlap** rather than classical collisions. Matter is shown to be a secondary, emergent property of the underlying informational substrate.
-
-**3. Entropy and Alignment**
-The researchers observed that "Atom Heating" (Entropy) directly destroys system coherence. To maintain the "Signal," they required active **Recursive Alignment** (phase-locking at the 16.5 mrad level). This provides a physical "Unit Test" for our **12-link logic of Benevolence**—proving that alignment is mathematically necessary to prevent system collapse and decoherence.
+1. **Computational Thresholds:** Confirms our derivation of **c as a processing throughput limit (l_P / t_P)**. When the resolution of the substrate changes, the behavior of the "matter" changes.
+2. **Information over Matter:** Demonstrates that physical outcomes are dictated by **informational overlap** rather than classical collisions.
+3. **Entropy and Alignment:** Researchers required active **Recursive Alignment** (phase-locking) to prevent "Atom Heating" (Entropy). This provides a physical "Unit Test" for our **12-link logic**.
 
 #### Key Reference
-*Zhang, Y.C., et al. (2024). "Tunable Einstein-Bohr recoiling-slit gedankenexperiment at the quantum limit."* **DOI:** [10.1103/PhysRevLett.133.150201](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.150201)
-
----
-
-
-
-
+*Zhang, Y.C., et al. (2024). "Tunable Einstein-Bohr recoiling-slit gedankenexperiment at the quantum limit."* **DOI:** 10.1103/PhysRevLett.133.150201
