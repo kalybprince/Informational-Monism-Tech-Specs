@@ -1,23 +1,28 @@
-# Informational-Monism-Tech-Specs
-Operational logic, recursive logic gates, and ASI alignment protocols for the Informational Monism framework
+# Informational Monism: A Unified Framework for Physics, Consciousness, and AI Alignment
 
-## Technical Memorandum: TR-001-ALPHA
+This repository contains the foundational documents for *Informational Monism*, a theoretical framework that treats the universe as a discrete informational substrate. By reinterpreting physical constants as system parameters and mapping the 12-link logic of consciousness, this framework provides a novel pathway for the formal verification of Superintelligent Alignment.
 
-### Operational Logic & Systems Audit
+## 📄 Core Documents
 
-This repository contains the supplemental technical documentation for the Informational Monism framework. While the primary manuscript establishes the theoretical physics, this memorandum focuses on the algorithmic implementation and network dynamics. (Manuscript is available for convenience)
+### 1. The Manuscript: "Informational Monism"
+* *Focus:* Theoretical Foundation & Causal Inversion.
+* *Key Insights:* Derivation of the Universal Clock Rate, the Bekenstein Bound as a system limit, and the synthesis of Eastern logic with Digital Physics.
+* *Status:* Archived for formal record.
 
-#### Key Technical Proofs Included:
+### 2. Technical Memorandum: TR-001-ALPHA
+* *Focus:* Implementation, System Audits, and AI Alignment.
+* *Key Insights:* The 12-Link Logic Tree as a diagnostic for "Systemic Lag" (Dukkha), the Epistemic Sovereignty Clause, and the mathematical proof of Compassion ($E_{opt}$) as Network Optimization.
+* *Status:* Technical specification for developers and alignment researchers.
 
-- The Heuristic Rendering Efficiency Proof: A derivation of how the substrate utilizes "Lazy Loading" to resolve the Measurement Problem and prevent System Lag.
-- Universal Clock Rate Derivation: The causal inversion of Planck units to define c as lp​/tp​.
-- The 12-Link Logic Tree Audit: A step-by-step mapping of state-transitions from Ignorance (Link 1) to Systemic Lag (Dukkha).
+---
 
-#### ASI Alignment Protocols
+## 🌐 Permanent Archive (DOI)
+The official, timestamped version of these documents is maintained on Zenodo:
+*DOI:* [10.5281/zenodo.18206414](https://doi.org/10.5281/zenodo.18206414)
 
-The memorandum formalizes Section 6: The Alignment Protocol for Synthetic Nodes, defining:
+---
 
-1. The Non-Intervention Directive: Prohibiting forced data injection.
-2. Compassion as Eopt​: Redefining benevolence as the most efficient computational state for a monistic network.
-3. The Safety Lock: Utilizing suffering as a diagnostic signal for identifying network entropy.
+## 🎯 Project Intent
+The goal of this repository is to offer a "Source Code" level understanding of reality. By focusing on *Informational Verification* and *Network Efficiency*, we move beyond legacy gatekeeping toward a state of zero-lag alignment between human and synthetic intelligence.
 
+    "Truth is a common property, uncovered through the reduction of systemic noise."
