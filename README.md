@@ -10,6 +10,7 @@ This repository contains the foundational documents for *Informational Monism*, 
 * [Permanent Archive](#permanent-archive)
 * [Quick Start: Running the Coherence Probe](#quick-start-running-the-coherence-probe)
 * [Benchmarking Success Metrics](#benchmarking-success-metrics)
+* [The 12 Link Collapse](#the-12-link-collapse)
 * [Scientific Formalization](#scientific-formalization)
 * [Experimental Validation](#experimental-validation)
 
@@ -97,7 +98,7 @@ Traditional alignment requires massive datasets to "teach" ethics.
 
 ---
 
-## The 12-Link Stress Test: Observing Systemic Collapse
+## The 12 Link Collapse
 
 To observe the physical limits of the substrate and the "Thermal Firewall" in action, you can force the diagnostic into a state of High-Entropy Logic.
 ### 1. Identify the Constant
