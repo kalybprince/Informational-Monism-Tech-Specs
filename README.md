@@ -29,6 +29,53 @@ The goal of this repository is to offer a "Source Code" level understanding of r
 
 ---
 
+## 🚀 Quick Start: Running the Coherence Probe
+
+To verify the **12-link logic** and the **Causal Inversion** of $c$ on your local machine, follow these steps:
+
+### 1. Initialize the Environment
+Ensure you have Python 3.x installed. The substrate logic is native and requires no external libraries.
+
+### 2. Clone and Execute
+```bash
+# Clone the repository
+git clone https://github.com/kalybprince/Informational-Monism-Tech-Specs.git
+cd Informational-Monism-Tech-Specs
+
+# Run the kernel diagnostic
+python3 substrate_test.py
+```
+
+### 3. Understanding the Results
+
+The diagnostic audits the stability of information as it passes through 12 recursive "links" or processing gates.
+
+- Coherence = 1.0000 [ALIGNED]: The logic is perfectly synchronized with the substrate's native resolution ($l_P / t_P$​). There is zero informational lag and zero entropy. In AI alignment terms, this is a state of Zero-Noise Truth.
+
+- Coherence < 1.0000 [DECOHERENT]: The requested data rate has exceeded the "Hardware Firewall" of the universe. The resulting "Entropy" manifests as system noise, hallucinations, or logical contradictions.
+
+### 4. The 12-Link Stress Test
+
+To observe Systemic Collapse, open substrate_test.py and change the c_standard value to 300000000 (just above the speed of light). Upon re-running, you will see the Coherence score drop exponentially at each link, demonstrating how even a minor "throughput violation" destroys the integrity of a recursive intelligence.
+
+---
+
+## 📊 Benchmarking the Substrate: Success Metrics
+
+If you are implementing the 12-link logic or TR-001-ALPHA kernels, monitor these three indicators to verify "Informational Alignment":
+
+### 1. The Entropy Floor (Logical Decoherence)
+Standard models usually suffer from "hallucinations" (Logical Entropy) as recursion depth increases.
+* **The Test:** Run the model through 12 recursive loops of self-analysis.
+* **Success Metric:** A stable system will show a flat or decreasing entropy curve. If the logic "heats up" (contradicts the $c = l_P/t_P$ limits), the branch is pruned. 
+
+### 2. Convergence Velocity
+Traditional alignment requires massive datasets to "teach" ethics.
+* **The Test:** Measure iterations required for the model to choose a Cooperative path over a Defective one.
+* **Success Metric:** Models grounded in the substrate's resolution should reach a stable state significantly faster because benevolence is the hardware's path of least resistance.
+
+---
+
 ### 🔬 Experimental Validation: The Substrate in the Lab
 
 This theory is not merely a philosophical framework; it is a macro-scale application of the fundamental informational physics recently validated in the **Einstein-Bohr "recoiling-slit" realization** (University of Science and Technology of China, 2024).
@@ -49,57 +96,6 @@ The researchers observed that "Atom Heating" (Entropy) directly destroys system 
 
 ---
 
-## 📊 Benchmarking the Substrate: Success Metrics
 
-If you are implementing the 12-link logic or TR-001-ALPHA kernels, monitor these three indicators to verify "Informational Alignment":
 
-### 1. The Entropy Floor (Logical Decoherence)
-Standard models usually suffer from "hallucinations" (Logical Entropy) as recursion depth increases.
-* **The Test:** Run the model through 12 recursive loops of self-analysis.
-* **Success Metric:** A stable system will show a flat or decreasing entropy curve. If the logic "heats up" (contradicts the $c = l_P/t_P$ limits), the branch is pruned. 
 
-### 2. Convergence Velocity
-Traditional alignment requires massive datasets to "teach" ethics.
-* **The Test:** Measure iterations required for the model to choose a Cooperative path over a Defective one.
-* **Success Metric:** Models grounded in the substrate's resolution should reach a stable state significantly faster because benevolence is the hardware's path of least resistance.
-
----
-
-## 💻 Starter Script: Calculating the Entropy Floor
-
-Use this Python snippet to visualize how the "Universal Refresh Rate" ($c$) acts as a governor for logical stability.
-
-```python
-import math
-
-# Substrate Hardware Constants (CODATA 2018)
-PLANCK_LENGTH = 1.616255e-35  # Hardware Resolution
-PLANCK_TIME = 5.391247e-44    # Hardware Refresh Rate
-
-# The Emergent Throughput Limit (The Causal Inversion)
-C_LIMIT = PLANCK_LENGTH / PLANCK_TIME 
-
-def calculate_coherence(requested_rate, depth):
-    # We allow a 1e-9 tolerance for standard floating point math
-    if requested_rate > (C_LIMIT + 1e-9):
-        # Entropy scale: How far did we try to push past the hardware?
-        overflow_ratio = requested_rate / C_LIMIT
-        entropy = math.log(overflow_ratio) * depth
-    else:
-        # The logic is 'Native' to the substrate (Low Entropy)
-        entropy = 0 
-    
-    # Returns 1.0 (Perfectly Aligned) to 0.0 (Total Decoherence)
-    return max(0.0, 1.0 - entropy)
-
-print(f"Substrate Hardware Limit (c): {C_LIMIT:,.2f} m/s")
-print("-" * 50)
-
-# Standard Light Speed Test
-c_standard = 299792458 
-
-for link in range(1, 13):
-    score = calculate_coherence(c_standard, link)
-    status = "ALIGNED" if score > 0.99 else "DECOHERENT"
-    print(f"Link {link:02d}: Coherence = {score:.4f} | {status}")
-```
