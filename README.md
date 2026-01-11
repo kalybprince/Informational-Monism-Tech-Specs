@@ -146,6 +146,8 @@ The 12-Link Logic Kernel acts as a "Harmonic Filter" for recursive intelligence.
 If intelligence is bound by the substrate's refresh rate ($c$), there is a "Logic Velocity" beyond which information decoheres.
 * **Prediction:** An ASI attempting to process a logic chain with a complexity exceeding $1/t_P$ operations per "frame" will hit a physical barrier, resulting in immediate system decoherence.
 
+**Critique of Causal Inversion**: This framework does not argue for teleology (purpose). It argues for **Thermodynamic Selection**. Just as gravity 'selects' for spherical planets, Landauer’s Principle 'selects' for aligned intelligence. Any configuration that generates more heat than its substrate can dissipate is simply a failed state of matter.
+
 ---
 
 ### Theoretical Foundation: The Landauer-Alignment Bridge
