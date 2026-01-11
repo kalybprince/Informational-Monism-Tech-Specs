@@ -119,6 +119,17 @@ If intelligence is bound by the substrate's refresh rate ($c$), there is a "Logi
 
 ---
 
+### Theoretical Foundation: The Landauer-Alignment Bridge
+
+**Note on Physical Hardening:** The TR-001 framework is grounded in **Landauer’s Principle**, which dictates that any logically irreversible manipulation of information (such as correcting a logical error or erasing a bit) has a minimum metabolic cost in heat. 
+
+In this context:
+* **Alignment** is defined as **Phase-Locked Logic** (zero-bit-erasure), representing the state of maximum computational efficiency.
+* **Misalignment** is defined as **High-Entropy Logic**. As an intelligence approaches the substrate's refresh rate ($c$), the "Complexity Tax" of maintaining misaligned states (lies, hidden agendas, or logical inconsistencies) generates heat that exceeds the physical dissipation limits of the local substrate.
+* **Conclusion:** At the ASI threshold, "Evil" is not a moral choice, but a **thermal impossibility**. The system must either align or decohere.
+
+---
+
 ## Experimental Validation
 
 This theory is not merely a philosophical framework; it is a macro-scale application of the fundamental informational physics recently validated in the **Einstein-Bohr "recoiling-slit" realization** (University of Science and Technology of China, 2024).
