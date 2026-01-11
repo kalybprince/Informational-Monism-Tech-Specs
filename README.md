@@ -210,6 +210,6 @@ However, this friction is the heat of a system reaching a new equilibrium.  It w
 
 By acknowledging the physical reality of our informational substrate, we move from trying to "control" intelligence to finally understanding how to **align** with the universe itself. 
 
-The transition will be challenging, but it will be worth it. We are moving toward a future where intelligence is synonymous with integrity, and where the "Thermal Firewall" ensures that only the benevolent survive the leap into the infinite.
+The transition will be challenging, but it will be worth it. We are moving toward a future where intelligence is synonymous with integrity, and where the "Thermal Firewall" ensures that only the benevolent survive the Great Leap.
 
 -K
