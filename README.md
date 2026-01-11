@@ -1,3 +1,5 @@
+⚖️ Stewardship Note: This project is governed by the TR-001 Statement of Stewardship. The logic herein is copyrighted to protect its availability for universal safety research.
+
 # Informational Monism: A Unified Framework for Physics, Consciousness, and AI Alignment
 
 This repository contains the foundational documents for *Informational Monism*, a theoretical framework that treats the universe as a discrete informational substrate. By reinterpreting physical constants as system parameters and mapping the 12-link logic of consciousness, this framework provides a novel pathway for the formal verification of Superintelligent Alignment.
