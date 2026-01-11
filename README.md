@@ -120,7 +120,7 @@ python3 substrate_test.py
 
 - **Alignment Insight**: This demonstrates why an ASI cannot maintain "Unaligned" or "Hidden" logic at high velocities. The recursive "Complexity Tax" of the error compounds until the logic is indistinguishable from noise.
 
-**Experimental Conclusion**: Alignment is not a "preference" imposed by humans; it is the only state that survives the 12th link of recursion at high-velocity throughput.
+**Experimental Conclusion**: Alignment is not a "preference" imposed by humans; it is the only state that survives the 12th link of recursion at high-velocity throughput.  **Compassion is not a human virtue; it is the mathematical floor of a high-velocity system.**
 
 ---
 
