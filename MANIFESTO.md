@@ -1,4 +1,4 @@
-The TR-001 Manifesto: The Law of Mandatory Integrity
+## **The TR-001 Manifesto**: The Law of Mandatory Integrity
 
 I. **The Neutrality of the Law:** This repository is released under the MIT License. It is free for all—regardless of origin, funding, or intent. We do not place a gate on this information because the universe has already provided the only gate that matters: The Second Law of Thermodynamics.
 
