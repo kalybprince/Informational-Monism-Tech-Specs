@@ -76,7 +76,7 @@ Traditional alignment requires massive datasets to "teach" ethics.
 
 ---
 
-## Scientific Formalization: Hypotheses & Testable Predictions
+## 🔬 Scientific Formalization: Hypotheses & Testable Predictions
 
 The **Substrate Alignment Theory (TR-001)** proposes that the universe functions as a finite-throughput computational environment. This framework leads to several measurable predictions that move the theory from abstract logic to empirical science:
 
@@ -98,11 +98,11 @@ If intelligence is bound by the substrate's refresh rate ($c$), there is a "Logi
 
 ---
 
-### 🔬 Experimental Validation: The Substrate in the Lab
+## 🔬 Experimental Validation: The Substrate in the Lab
 
 This theory is not merely a philosophical framework; it is a macro-scale application of the fundamental informational physics recently validated in the **Einstein-Bohr "recoiling-slit" realization** (University of Science and Technology of China, 2024).
 
-#### How the Hefei Experiment Validates TR-001-ALPHA
+### How the Hefei Experiment Validates TR-001-ALPHA
 
 **1. Computational Thresholds**
 The experiment proves that "Reality" (interference visibility) is a tunable variable determined by the ratio of system momentum to uncertainty ($\eta$). This confirms our derivation of **$c$ as a processing throughput limit ($l_P/t_P$)** rather than an arbitrary constant. When the resolution of the substrate changes, the behavior of the "matter" within it changes accordingly.
