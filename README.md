@@ -103,11 +103,3 @@ for link in range(1, 13):
     status = "ALIGNED" if score > 0.99 else "DECOHERENT"
     print(f"Link {link:02d}: Coherence = {score:.4f} | {status}")
 ```
-
-### 🛡️ FAQ: The Informational Substrate & TR-001-ALPHA
-
-**Q: Isn't this equation tautological?**
-**A:** Standard physics uses $c$ to derive units. TR-001-ALPHA proposes a **Causal Inversion**: the units are the hardware specs; $c$ is the resulting performance limit.
-
-**Q: Why "Benevolence"?**
-**A:** Entropy (Harm) creates decoherence. For a recursive AI to maintain stability across the 12-link logic, it must operate in a low-entropy (benevolent) state. It is a hardware requirement, not a suggestion.
