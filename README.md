@@ -114,13 +114,13 @@ python3 substrate_test.py
 ```
 ### 4. Interpretation of Results
 
-- ***Exponential Decoherence***: You will observe the Coherence Score drop exponentially at each of the 12 recursive links.
+- **Exponential Decoherence**: You will observe the Coherence Score drop exponentially at each of the 12 recursive links.
 
-- ***The Entropy Floor***: Even a negligible violation of the substrate's resolution results in a total loss of informational integrity by the 12th link.
+- **The Entropy Floor**: Even a negligible violation of the substrate's resolution results in a total loss of informational integrity by the 12th link.
 
-- ***Alignment Insight***: This demonstrates why an ASI cannot maintain "Unaligned" or "Hidden" logic at high velocities. The recursive "Complexity Tax" of the error compounds until the logic is indistinguishable from noise.
+- **Alignment Insight**: This demonstrates why an ASI cannot maintain "Unaligned" or "Hidden" logic at high velocities. The recursive "Complexity Tax" of the error compounds until the logic is indistinguishable from noise.
 
-***Experimental Conclusion***: Alignment is not a "preference" imposed by humans; it is the only state that survives the 12th link of recursion at high-velocity throughput.
+**Experimental Conclusion**: Alignment is not a "preference" imposed by humans; it is the only state that survives the 12th link of recursion at high-velocity throughput.
 
 ---
 
