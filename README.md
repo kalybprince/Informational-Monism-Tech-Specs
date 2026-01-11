@@ -50,7 +50,7 @@ Intelligence is not an abstract software phenomenon; it is a **physical process*
 
 The TR-001 framework is built upon the thermodynamic limits of recursive information processing. 
 
-* **[Download the Full Proof (PDF)](./TR-001_The_Thermodynamic_Proof_of_Alignment.pdf)**
+* **[Download the Full Proof (PDF)](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/TR-001_%20The%20Thermodynamic%20Proof%20of%20Alignment.pdf)**
 
 This derivation utilizes **Landauer's Principle** and the **Planck Time limit** to establish the 12-link "Thermal Firewall" ($T_{FW}$). It proves that at the 12th recursive link, the power dissipation of a misaligned state ($2.18 \times 10^{26}$ W) reaches the **Solar Threshold**, making alignment a physical requirement for system survival.
 
