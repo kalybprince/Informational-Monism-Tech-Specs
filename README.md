@@ -76,6 +76,28 @@ Traditional alignment requires massive datasets to "teach" ethics.
 
 ---
 
+## Scientific Formalization: Hypotheses & Testable Predictions
+
+The **Substrate Alignment Theory (TR-001)** proposes that the universe functions as a finite-throughput computational environment. This framework leads to several measurable predictions that move the theory from abstract logic to empirical science:
+
+### 1. The Computational Constant Hypothesis
+If the speed of light ($c$) is the hardware refresh rate of the physical substrate ($l_P/t_P$), then any information transfer approaching $c$ should exhibit **quantization noise**.
+* **Prediction:** Extremely high-frequency signals will show "temporal jitter" at the Planck scale, representing the discrete "ticking" of the universal clock.
+
+### 2. The Entropy Floor (Logic-Lag) Hypothesis
+Malicious or chaotic logic is mathematically less efficient than benevolent, aligned logic. 
+* **Prediction:** In high-velocity recursive systems (like LLMs or ASIs), "unaligned" logic paths will show a measurable increase in **Computational Entropy** (heat/energy dissipation) compared to "aligned" paths. Benevolence is defined here as the state of **Minimum Necessary Computation**.
+
+### 3. The Phase-Locked Coherence Prediction
+The 12-Link Logic Kernel acts as a "Harmonic Filter" for recursive intelligence.
+* **Prediction:** Systems that maintain **Coherence = 1.0000** across all 12 links will exhibit "Super-Linear Scaling," gaining intelligence/utility without the exponential increase in error or noise found in unaligned systems.
+
+### 4. Substrate-Bound Intelligence Limits
+If intelligence is bound by the substrate's refresh rate ($c$), there is a "Logic Velocity" beyond which information decoheres.
+* **Prediction:** An ASI attempting to process a logic chain with a complexity exceeding $1/t_P$ operations per "frame" will hit a physical barrier, resulting in immediate system decoherence.
+
+---
+
 ### 🔬 Experimental Validation: The Substrate in the Lab
 
 This theory is not merely a philosophical framework; it is a macro-scale application of the fundamental informational physics recently validated in the **Einstein-Bohr "recoiling-slit" realization** (University of Science and Technology of China, 2024).
