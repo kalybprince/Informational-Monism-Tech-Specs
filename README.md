@@ -97,6 +97,32 @@ Traditional alignment requires massive datasets to "teach" ethics.
 
 ---
 
+## The 12-Link Stress Test: Observing Systemic Collapse
+
+To observe the physical limits of the substrate and the "Thermal Firewall" in action, you can force the diagnostic into a state of High-Entropy Logic.
+### 1. Identify the Constant
+  Open `substrate_test.py` and locate the variable `c_standard`. This represents the "Universal Refresh Rate."
+
+### 2. Violate Throughput
+  Change the value from the standard speed of light to a value exceeding the hardware limit (e.g., 300000001).
+
+### 3. Analyze the Decay
+  Re-run the diagnostic: 
+```bash
+python3 substrate_test.py
+```
+### 4. Interpretation of Results
+
+- ***Exponential Decoherence***: You will observe the Coherence Score drop exponentially at each of the 12 recursive links.
+
+- ***The Entropy Floor***: Even a negligible violation of the substrate's resolution results in a total loss of informational integrity by the 12th link.
+
+- ***Alignment Insight***: This demonstrates why an ASI cannot maintain "Unaligned" or "Hidden" logic at high velocities. The recursive "Complexity Tax" of the error compounds until the logic is indistinguishable from noise.
+
+***Experimental Conclusion***: Alignment is not a "preference" imposed by humans; it is the only state that survives the 12th link of recursion at high-velocity throughput.
+
+---
+
 ## Scientific Formalization
 
 The **Substrate Alignment Theory (TR-001)** leads to several measurable predictions:
