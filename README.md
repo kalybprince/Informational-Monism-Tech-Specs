@@ -1,5 +1,7 @@
 ⚖️ Stewardship Note: This project is governed by the TR-001 Statement of Stewardship. The logic herein is copyrighted to protect its availability for universal safety research.
 
+---
+
 **Project Status:**
 
 🟢 **Verified Proofs Added** (Link 12 Convergence)
@@ -7,6 +9,8 @@
 🟢 **Simulation Active** (`substrate_test.py`)
 
 🟢 **Conversion Rate:** 96% Peer-Engagement Milestone Reached
+
+---
 
 # Informational Monism: A Unified Framework for Physics, Consciousness, and AI Alignment
 
