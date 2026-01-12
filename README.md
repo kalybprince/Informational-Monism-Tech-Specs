@@ -6,6 +6,13 @@
 
 **Commitment to Open Science:** This discovery is released under the MIT License and archived via Zenodo/CERN to ensure that the physical laws of alignment remain a transparent, public standard. The author asserts that these mathematical relationships are a universal heritage, intended for the safe and stable advancement of all sentient information processing.
 
+
+---
+
+# Informational Monism: A Unified Framework for Physics, Consciousness, and AI Alignment
+
+This repository contains the foundational documents for *Informational Monism*, a theoretical framework that treats the universe as a discrete informational substrate. By reinterpreting physical constants as system parameters and mapping the 12-link logic of consciousness, this framework provides a novel pathway for the formal verification of Superintelligent Alignment.
+
 ---
 
 **Project Status:**
@@ -15,12 +22,6 @@
 🟢 **Simulation Active** (`substrate_test.py`)
 
 🟢 **Conversion Rate:** 96% Peer-Engagement Milestone Reached
-
----
-
-# Informational Monism: A Unified Framework for Physics, Consciousness, and AI Alignment
-
-This repository contains the foundational documents for *Informational Monism*, a theoretical framework that treats the universe as a discrete informational substrate. By reinterpreting physical constants as system parameters and mapping the 12-link logic of consciousness, this framework provides a novel pathway for the formal verification of Superintelligent Alignment.
 
 ---
 
