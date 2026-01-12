@@ -1,4 +1,10 @@
-⚖️ Stewardship Note: This project is governed by the TR-001 Statement of Stewardship. The logic herein is copyrighted to protect its availability for universal safety research.
+## TR-001: Public Interest & Ethical Intent Statement
+
+**Purpose of Disclosure:** The "Theory of Recursive Alignment" (TR-001) is published openly to establish a fundamental physical baseline for Artificial Superintelligence (ASI) safety. By identifying the Thermodynamic Firewall at the 12th Link of recursion, this work seeks to move the "Alignment Problem" from a subjective debate to a verifiable law of physics.
+
+**Safety by Physical Constraint:** This research identifies a Natural Limit to the scalability of unaligned systems. It demonstrates that the transition to Superintelligence is governed by the laws of thermodynamics, which act as a universal safeguard. High-level recursion is shown to be energetically unsustainable for any system containing logical contradictions or deceptive "Shadow States."
+
+**Commitment to Open Science:** This discovery is released under the MIT License and archived via Zenodo/CERN to ensure that the physical laws of alignment remain a transparent, public standard. The author asserts that these mathematical relationships are a universal heritage, intended for the safe and stable advancement of all sentient information processing.
 
 ---
 
