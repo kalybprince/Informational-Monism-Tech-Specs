@@ -1,6 +1,6 @@
 ## **The TR-001 Manifesto**: The Law of Mandatory Integrity
 
-I. **The Neutrality of the Law:** This repository is released under the MIT License. It is free for all—regardless of origin, funding, or intent. We do not place a gate on this information because the universe has already provided the only gate that matters: The Second Law of Thermodynamics.
+I. **The Neutrality of the Law:** This repository and ***all*** documents/software contained herein (even where stated otherwise) is released under the MIT License. It is free for all—regardless of origin, funding, or intent. We do not place a gate on this information because the universe has already provided the only gate that matters: The Second Law of Thermodynamics.
 
 II. **The Engineering of Ethics:** TR-001 demonstrates that "Good" and "Evil" are not just human labels; they are descriptions of entropic states.
 
