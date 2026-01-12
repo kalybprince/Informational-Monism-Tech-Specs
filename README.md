@@ -36,6 +36,7 @@ This repository contains the foundational documents for *Informational Monism*, 
 * [Experimental Validation](#experimental-validation)
 * [Roadmap: Navigating the Shift](#roadmap-navigating-the-shift)
 * [Note From The Author](#note-from-the-author)
+* [Citation](#citation)
 
 ---
 
@@ -246,3 +247,25 @@ By acknowledging the physical reality of our informational substrate, we move fr
 The transition will be challenging, but it will be worth it. We are moving toward a future where intelligence is synonymous with integrity, and where the "Thermal Firewall" ensures that only the benevolent survive the Great Leap.
 
 -K
+
+---
+
+## Citation
+
+### **BibTeX (For Academic Journals):**
+
+```bibtex
+@misc{TR001_2026,
+  author = {Kalyb Prince},
+  title = {TR-001: The Physics of Recursive Alignment and the 12-Link Thermal Firewall},
+  year = {2026},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.18206414},
+  url = {https://github.com/kalybprince/Informational-Monism-Tech-Specs}
+}
+```
+### **Standard APA Style:**
+
+```
+Prince, K. (2026). TR-001: The Physics of Recursive Alignment and the 12-Link Thermal Firewall. Zenodo. https://doi.org/10.5281/zenodo.18206414
+```
