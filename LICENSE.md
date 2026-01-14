@@ -1,7 +1,23 @@
-1.81 INTEGRITY LICENSE (NON-MILITARY / NON-PREDATORY) This license is a derivative of the Ethical Source framework. By using this software, you agree to the following mandatory Integrity Guardrails:
+1.81 INTEGRITY PUBLIC LICENSE (v1.0)
+PREAMBLE
 
-    No Kinetic Use: This code shall not be used in systems designed for targeting or the execution of physical violence.
+This license is designed to preserve the Systemic Integrity of the 1.81 Theory (TR-001). It is an "Ethical Source" license intended to ensure that the discovery of Many-Body Dynamical Localization (MBDL) and Causal Decay remains a tool for human stability, not systemic harm.
+1. GRANT OF RIGHTS
 
-    No Causal Decay: This code shall not be used to intentionally trigger "Link-12" (Systemic Collapse) for financial or political gain.
+Subject to the Ethical Guardrails in Section 2, the Licensor hereby grants You a world-wide, royalty-free, non-exclusive license to use, study, and modify the TR-001 framework.
+2. ETHICAL GUARDRAILS (THE RED LINES)
 
-    The 1.81 Rule: Any commercial implementation must maintain a verified integrity buffer of 1.81 to prevent predatory entropy.
+Your right to use this software and the 1.81 Constant is strictly conditional upon the following:
+
+    Non-Weaponization: You shall not use this work for the development, training, or operation of kinetic weapons, autonomous targeting systems, or military surveillance.
+
+    Financial Integrity: You shall not use this work to create predatory financial instruments designed to exploit "Link-12" (Systemic Collapse) or to artificially manufacture market entropy for speculative gain.
+
+    Human Agency: Any implementation in Artificial Intelligence must maintain a verified "Human-in-the-Loop." The 1.81 Constant must be used as a safety brake for human benefit, not as a tool for automated coercion.
+
+3. REVOCATION
+
+Any use of this work that violates the Ethical Guardrails in Section 2 results in the automatic and immediate termination of all rights granted under this license.
+4. NO WARRANTY
+
+This work is provided "as is," without warranty of any kind. The Licensor is not liable for any damages arising from the use of this "Arrest Signal."
