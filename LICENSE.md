@@ -11,11 +11,11 @@ Subject to the Ethical Guardrails in Section 2, the Licensor hereby grants You a
 
 Your right to use this software and the 1.81 Constant is strictly conditional upon the following:
 
-    Non-Weaponization: You shall not use this work for the development, training, or operation of kinetic weapons, autonomous targeting systems, or military surveillance.
+    1. Non-Weaponization: You shall not use this work for the development, training, or operation of kinetic weapons, autonomous targeting systems, or military surveillance.
 
-    Financial Integrity: You shall not use this work to create predatory financial instruments designed to exploit "Link-12" (Systemic Collapse) or to artificially manufacture market entropy for speculative gain.
+    2. Financial Integrity: You shall not use this work to create predatory financial instruments designed to exploit "Link-12" (Systemic Collapse) or to artificially manufacture market entropy for speculative gain.
 
-    Human Agency: Any implementation in Artificial Intelligence must maintain a verified "Human-in-the-Loop." The 1.81 Constant must be used as a safety brake for human benefit, not as a tool for automated coercion.
+    3. Human Agency: Any implementation in Artificial Intelligence must maintain a verified "Human-in-the-Loop." The 1.81 Constant must be used as a safety brake for human benefit, not as a tool for automated coercion.
 
 3. REVOCATION
 
