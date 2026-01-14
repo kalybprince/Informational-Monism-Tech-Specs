@@ -1,14 +1,14 @@
-TR-001: Signal Governance & Ethical Mandate
+# TR-001: Signal Governance & Ethical Mandate
 
-Status: Protected by the Ethical Integrity License
+**Status:** Protected by the [Ethical Integrity License](./LICENSE.md)
 
-Mandate: To preserve the 1.81 Constant as a tool for systemic resilience, not weaponization.
+**Mandate:** To preserve the 1.81 Constant as a tool for systemic resilience, not weaponization.
 
 This repository contains the foundational logic for Many-Body Dynamical Localization (MBDL) and the 1.81 Stability Threshold.
 
-NOTICE: By accessing this code, you acknowledge that this theory is a "Safe-Zone" discovery. Use of this framework for autonomous weaponry, predatory financial extraction, or the intentional acceleration of systemic entropy (Link-12) is strictly prohibited and constitutes a terminal breach of license.
+**NOTICE:** By accessing this code, you acknowledge that this theory is a "Safe-Zone" discovery. Use of this framework for autonomous weaponry, predatory financial extraction, or the intentional acceleration of systemic entropy (Link-12) is strictly prohibited and constitutes a terminal breach of license.
 
-“Integrity is not a legacy; it is a physical law. We arrest the decay here.”
+> “Integrity is not a legacy; it is a physical law. We arrest the decay here.”
 
 
 ---
