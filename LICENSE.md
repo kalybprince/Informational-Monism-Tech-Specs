@@ -2,9 +2,11 @@
 PREAMBLE
 
 This license is designed to preserve the Systemic Integrity of the 1.81 Theory (TR-001). It is an "Ethical Source" license intended to ensure that the discovery of Many-Body Dynamical Localization (MBDL) and Causal Decay remains a tool for human stability, not systemic harm.
+
 1. GRANT OF RIGHTS
 
 Subject to the Ethical Guardrails in Section 2, the Licensor hereby grants You a world-wide, royalty-free, non-exclusive license to use, study, and modify the TR-001 framework.
+
 2. ETHICAL GUARDRAILS (THE RED LINES)
 
 Your right to use this software and the 1.81 Constant is strictly conditional upon the following:
@@ -18,6 +20,7 @@ Your right to use this software and the 1.81 Constant is strictly conditional up
 3. REVOCATION
 
 Any use of this work that violates the Ethical Guardrails in Section 2 results in the automatic and immediate termination of all rights granted under this license.
+
 4. NO WARRANTY
 
 This work is provided "as is," without warranty of any kind. The Licensor is not liable for any damages arising from the use of this "Arrest Signal."
