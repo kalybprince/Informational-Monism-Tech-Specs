@@ -1,6 +1,6 @@
 # 🛡️ FAQ: The Informational Substrate & TR-001-ALPHA
 
-### Q: Isn't this equation (c = lP / tP) tautological?
+### Q: Isn't this equation (c = l_P / t_P) tautological?
 **A:** Standard physics uses $c$ as a "given" to derive units (a descriptive loop). TR-001-ALPHA proposes a **Causal Inversion**: the Planck units ($l_P, t_P$) are the hardware specifications—the resolution and clock cycle. The Speed of Light ($c$) is the resulting **emergent performance limit**.
 
 ---
