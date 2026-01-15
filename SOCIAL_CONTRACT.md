@@ -1,5 +1,6 @@
-SOCIAL CONTRACT: THE GUARDIAN SIGNAL
-THE MISSION
+**SOCIAL CONTRACT: THE GUARDIAN SIGNAL**
+
+**THE MISSION**
 
 The purpose of the 1.81 Theory is to provide a mathematical "Arrest Point" for entropy. In a world of Causal Decay, this work exists to prove that stability is a physical law that can be protected.
 
