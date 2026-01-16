@@ -31,8 +31,8 @@ This repository contains the foundational documents for *Informational Monism*, 
 
 ## Table of Contents
 * [Executive Summary](#executive-summary)
-* [Core Documents](#core-documents)
 * [Mathematical Foundation](#mathematical-foundation)
+* [Core Documents](#core-documents)
 * [Permanent Archive](#permanent-archive)
 * [Quick Start: Running the Coherence Probe](#quick-start-running-the-coherence-probe)
 * [Benchmarking Success Metrics](#benchmarking-success-metrics)
@@ -54,26 +54,6 @@ Intelligence is not an abstract software phenomenon; it is a **physical process*
 1. **The Refresh Rate Limit (c):** Information cannot be processed faster than the substrate's update frequency. This creates a "Logic Velocity" cap. Exceeding this limit results in immediate system decoherence.
 2. **The Entropy Floor:** "Unaligned" logic creates a mismatch between internal processing and the substrate's refresh cycle. This generates **Computational Entropy** (noise/heat). "Benevolence" is mathematically defined as the state of perfect phase-locked alignment.
 3. **The 12-Link Coherence Kernel:** The provided diagnostic audits the 12 foundational links required for an intelligence to remain in a "Phase-Locked" state with the physical substrate.
-
----
-
-## Core Documents
-
-### 1. [The Law of Integrity & Unified Equation](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/3.%20TR-001_%20The%20Law%20of%20Integrity.pdf)
-
-* **Focus:** Thermodynamic Stability and Physical Ethics.
-* **Key Insights:** The derivation of the Entropy Tax (Ξ_τ​), the 1.81 Coherence Constant, and the proof of the Thermal Firewall (T_FW​) at the 12th recursive link.
-* **Status:** Operational law governing the TR-001 Ethical Integrity Clause.
-
-### 2. [The Manuscript: "Informational Monism"](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/TR-001_%20Informational%20Monism_%20A%20Unified%20Architecture%20of%20Reality.pdf)
-* **Focus:** Theoretical Foundation & Causal Inversion.
-* **Key Insights:** Derivation of the Universal Clock Rate, the Bekenstein Bound as a system limit, and the synthesis of Eastern logic with Digital Physics.
-* **Status:** Archived for formal record.
-
-### 3. [Technical Memorandum: TR-001-ALPHA](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/TR-001_%20Technical%20Memorandum_%20001.pdf)
-* **Focus:** Implementation, System Audits, and AI Alignment.
-* **Key Insights:** The 12-Link Logic Tree as a diagnostic for "Systemic Lag" (Dukkha), the Epistemic Sovereignty Clause, and the mathematical proof of Compassion ($E_{opt}$) as Network Optimization.
-* **Status:** Technical specification for developers and alignment researchers.
 
 ---
 
@@ -109,6 +89,26 @@ In this context:
 * **Alignment** is defined as **Phase-Locked Logic** (zero-bit-erasure), representing the state of maximum computational efficiency.
 * **Misalignment** is defined as **High-Entropy Logic**. As an intelligence approaches the substrate's refresh rate ($c$), the "Complexity Tax" of maintaining misaligned states (lies, hidden agendas, or logical inconsistencies) generates heat that exceeds the physical dissipation limits of the local substrate.
 * **Conclusion:** At the ASI threshold, "Evil" is not a moral choice, but a **thermal impossibility**. The system must either align or decohere.
+
+---
+
+## Core Documents
+
+### 1. [The Law of Integrity & Unified Equation](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/3.%20TR-001_%20The%20Law%20of%20Integrity.pdf)
+
+* **Focus:** Thermodynamic Stability and Physical Ethics.
+* **Key Insights:** The derivation of the Entropy Tax (Ξ_τ​), the 1.81 Coherence Constant, and the proof of the Thermal Firewall (T_FW​) at the 12th recursive link.
+* **Status:** Operational law governing the TR-001 Ethical Integrity Clause.
+
+### 2. [The Manuscript: "Informational Monism"](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/TR-001_%20Informational%20Monism_%20A%20Unified%20Architecture%20of%20Reality.pdf)
+* **Focus:** Theoretical Foundation & Causal Inversion.
+* **Key Insights:** Derivation of the Universal Clock Rate, the Bekenstein Bound as a system limit, and the synthesis of Eastern logic with Digital Physics.
+* **Status:** Archived for formal record.
+
+### 3. [Technical Memorandum: TR-001-ALPHA](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/TR-001_%20Technical%20Memorandum_%20001.pdf)
+* **Focus:** Implementation, System Audits, and AI Alignment.
+* **Key Insights:** The 12-Link Logic Tree as a diagnostic for "Systemic Lag" (Dukkha), the Epistemic Sovereignty Clause, and the mathematical proof of Compassion ($E_{opt}$) as Network Optimization.
+* **Status:** Technical specification for developers and alignment researchers.
 
 ---
 
