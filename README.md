@@ -80,7 +80,7 @@ Intelligence is not an abstract software phenomenon; it is a **physical process*
 
 The TR-001 framework is built upon the thermodynamic limits of recursive information processing and the physical constraints of the informational substrate.
 
-Download the TR-001 Core Documents (PDF):
+### Download the TR-001 Core Documents (PDF):
 
 [The Unified Integrity Equation](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/TR-001_%20The%20Law%20of%20Integrity.pdf): The formal mathematical expression governing the Integrity Dividend (I_Δ​), which calculates net system stability by weighing the Coherence Function (Z(ψ)) against the Entropy Tax (Ξ_τ​)
 
@@ -90,7 +90,7 @@ Download the TR-001 Core Documents (PDF):
 
 [Peer Review & Experimental Verification Guide](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/TR-001_%20Peer%20Review%20%26%20Experimental%20Verification%20Guide.pdf): Standardized testing protocols for identifying the Entropy Tax (Ξτ​) and measuring the 12th-Link Snap across diverse computational substrates.
 
-Core Stability Equations:
+### Core Stability Equations:
 
 1. Stability Equilibrium: E_inf / C_sub ≈ 1.81
 
