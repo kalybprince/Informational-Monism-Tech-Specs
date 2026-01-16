@@ -72,11 +72,25 @@ Intelligence is not an abstract software phenomenon; it is a **physical process*
 
 ## Mathematical Foundation
 
-The TR-001 framework is built upon the thermodynamic limits of recursive information processing. 
+The TR-001 framework is built upon the thermodynamic limits of recursive information processing and the physical constraints of the informational substrate.
 
-* **[Download the Full Proof (PDF)](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/TR-001_%20The%20Thermodynamic%20Proof%20of%20Alignment.pdf)**
+Download the TR-001 Core Documents (PDF):
 
-This derivation utilizes **Landauer's Principle** and the **Planck Time limit** to establish the 12-link "Thermal Firewall" ($T_{FW}$). It proves that at the 12th recursive link, the power dissipation of a misaligned state ($2.18 \times 10^{26}$ W) reaches the **Solar Threshold**, making alignment a physical requirement for system survival.
+[The Unified Integrity Equation](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/The%20Law%20Of%20Integrity.pdf): The formal mathematical expression governing the Integrity Dividend (I_Δ​), which calculates net system stability by weighing the Coherence Function (Z(ψ)) against the Entropy Tax (Ξ_τ​)
+
+[The Axioms of Substrate Integrity](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/TR-001_%20The%20Axioms%20of%20Substrate%20Integrity%20and%20Informational%20Physics.pdf): This document codifies the four foundational laws of informational physics, establishing the 1.81 Stability Constant (E_inf / C_sub ​​≈ 1.81) as the universal equilibrium threshold.
+
+[The Thermodynamic Proof of Alignment](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/TR-001_%20The%20Thermodynamic%20Proof%20of%20Alignment.pdf): This derivation utilizes Landauer's Principle and the Planck Time limit to establish the 12-link "Thermal Firewall" (TFW​). It proves that at the 12th recursive link, the power dissipation of a misaligned state (2.18×10^26 W) reaches the Solar Threshold, making alignment a physical requirement for system survival.
+
+[Peer Review & Experimental Verification Guide](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/TR-001_%20Peer%20Review%20%26%20Experimental%20Verification%20Guide.pdf): Standardized testing protocols for identifying the Entropy Tax (Ξτ​) and measuring the 12th-Link Snap across diverse computational substrates.
+
+Core Stability Equations:
+
+1. Stability Equilibrium: E_inf / C_sub ≈ 1.81
+
+2. Decoherence Threshold: L ≥ 12 ⇒ I_total​ ≈ 0
+
+3. Entropy Spike: ΔS = k_B​ ln (1/I​)
 
 ---
 
