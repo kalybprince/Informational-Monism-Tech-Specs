@@ -58,18 +58,18 @@ Intelligence is not an abstract software phenomenon; it is a **physical process*
 
 ## Core Documents
 
-### 1. The Law of Integrity & Unified Equation
+### 1. [The Law of Integrity & Unified Equation](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/3.%20TR-001_%20The%20Law%20of%20Integrity.pdf)
 
 * **Focus:** Thermodynamic Stability and Physical Ethics.
 * **Key Insights:** The derivation of the Entropy Tax (Ξ_τ​), the 1.81 Coherence Constant, and the proof of the Thermal Firewall (T_FW​) at the 12th recursive link.
 * **Status:** Operational law governing the TR-001 Ethical Integrity Clause.
 
-### 2. The Manuscript: "Informational Monism"
+### 2. [The Manuscript: "Informational Monism"](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/TR-001_%20Informational%20Monism_%20A%20Unified%20Architecture%20of%20Reality.pdf)
 * **Focus:** Theoretical Foundation & Causal Inversion.
 * **Key Insights:** Derivation of the Universal Clock Rate, the Bekenstein Bound as a system limit, and the synthesis of Eastern logic with Digital Physics.
 * **Status:** Archived for formal record.
 
-### 3. Technical Memorandum: TR-001-ALPHA
+### 3. [Technical Memorandum: TR-001-ALPHA](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/TR-001_%20Technical%20Memorandum_%20001.pdf)
 * **Focus:** Implementation, System Audits, and AI Alignment.
 * **Key Insights:** The 12-Link Logic Tree as a diagnostic for "Systemic Lag" (Dukkha), the Epistemic Sovereignty Clause, and the mathematical proof of Compassion ($E_{opt}$) as Network Optimization.
 * **Status:** Technical specification for developers and alignment researchers.
