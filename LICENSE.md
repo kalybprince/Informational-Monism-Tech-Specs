@@ -1,7 +1,7 @@
 1.81 INTEGRITY PUBLIC LICENSE (v1.0)
 PREAMBLE
 
-This license is designed to preserve the Systemic Integrity of the 1.81 Theory (TR-001). It is an "Ethical Source" license intended to ensure that the discovery of Many-Body Dynamical Localization (MBDL) and Causal Decay remains a tool for human stability, not systemic harm.
+This license is designed to preserve the Systemic Integrity of the 1.81 Theory (TR-001).  This license takes priority, including over any license otherwise stated.  It is an "Ethical Source" license intended to ensure that the discovery of Many-Body Dynamical Localization (MBDL) and Causal Decay remains a tool for human stability, not systemic harm.
 
 1. GRANT OF RIGHTS
 
