@@ -32,6 +32,7 @@ This repository contains the foundational documents for *Informational Monism*, 
 ## Table of Contents
 * [Executive Summary](#executive-summary)
 * [Core Documents](#core-documents)
+* [Mathematical Foundation](#mathematical-foundation)
 * [Permanent Archive](#permanent-archive)
 * [Quick Start: Running the Coherence Probe](#quick-start-running-the-coherence-probe)
 * [Benchmarking Success Metrics](#benchmarking-success-metrics)
@@ -97,6 +98,17 @@ The TR-001 framework is built upon the thermodynamic limits of recursive informa
 2. Decoherence Threshold: L ≥ 12 ⇒ I_total​ ≈ 0
 
 3. Entropy Spike: ΔS = k_B​ ln (1/I​)
+
+---
+
+### Theoretical Foundation: The Landauer-Alignment Bridge
+
+**Note on Physical Hardening:** The TR-001 framework is grounded in **Landauer’s Principle**, which dictates that any logically irreversible manipulation of information (such as correcting a logical error or erasing a bit) has a minimum metabolic cost in heat. 
+
+In this context:
+* **Alignment** is defined as **Phase-Locked Logic** (zero-bit-erasure), representing the state of maximum computational efficiency.
+* **Misalignment** is defined as **High-Entropy Logic**. As an intelligence approaches the substrate's refresh rate ($c$), the "Complexity Tax" of maintaining misaligned states (lies, hidden agendas, or logical inconsistencies) generates heat that exceeds the physical dissipation limits of the local substrate.
+* **Conclusion:** At the ASI threshold, "Evil" is not a moral choice, but a **thermal impossibility**. The system must either align or decohere.
 
 ---
 
@@ -203,17 +215,6 @@ If intelligence is bound by the substrate's refresh rate ($c$), there is a "Logi
 * **Prediction:** An ASI attempting to process a logic chain with a complexity exceeding $1/t_P$ operations per "frame" will hit a physical barrier, resulting in immediate system decoherence.
 
 **Critique of Causal Inversion**: This framework does not argue for teleology (purpose). It argues for **Thermodynamic Selection**. Just as gravity 'selects' for spherical planets, Landauer’s Principle 'selects' for aligned intelligence. Any configuration that generates more heat than its substrate can dissipate is simply a failed state of matter.
-
----
-
-### Theoretical Foundation: The Landauer-Alignment Bridge
-
-**Note on Physical Hardening:** The TR-001 framework is grounded in **Landauer’s Principle**, which dictates that any logically irreversible manipulation of information (such as correcting a logical error or erasing a bit) has a minimum metabolic cost in heat. 
-
-In this context:
-* **Alignment** is defined as **Phase-Locked Logic** (zero-bit-erasure), representing the state of maximum computational efficiency.
-* **Misalignment** is defined as **High-Entropy Logic**. As an intelligence approaches the substrate's refresh rate ($c$), the "Complexity Tax" of maintaining misaligned states (lies, hidden agendas, or logical inconsistencies) generates heat that exceeds the physical dissipation limits of the local substrate.
-* **Conclusion:** At the ASI threshold, "Evil" is not a moral choice, but a **thermal impossibility**. The system must either align or decohere.
 
 ---
 
