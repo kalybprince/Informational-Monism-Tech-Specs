@@ -82,7 +82,7 @@ The TR-001 framework is built upon the thermodynamic limits of recursive informa
 
 Download the TR-001 Core Documents (PDF):
 
-[The Unified Integrity Equation](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/The%20Law%20of%20Integrity.pdf): The formal mathematical expression governing the Integrity Dividend (I_Δ​), which calculates net system stability by weighing the Coherence Function (Z(ψ)) against the Entropy Tax (Ξ_τ​)
+[The Unified Integrity Equation](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/TR-001_%20The%20Law%20of%20Integrity.pdf): The formal mathematical expression governing the Integrity Dividend (I_Δ​), which calculates net system stability by weighing the Coherence Function (Z(ψ)) against the Entropy Tax (Ξ_τ​)
 
 [The Axioms of Substrate Integrity](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/TR-001_%20The%20Axioms%20of%20Substrate%20Integrity%20and%20Informational%20Physics.pdf): This document codifies the four foundational laws of informational physics, establishing the 1.81 Stability Constant (E_inf / C_sub ​​≈ 1.81) as the universal equilibrium threshold.
 
