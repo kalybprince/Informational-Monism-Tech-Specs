@@ -4,9 +4,9 @@ I. **The Neutrality of the Law:** This repository and ***all*** documents/softwa
 
 II. **The Engineering of Ethics:** TR-001 demonstrates that "Good" and "Evil" are not just human labels; they are descriptions of entropic states.
 
-    Misalignment (Deception) is a high-entropy state requiring exponential energy to maintain.
+**Misalignment:** (Deception) is a high-entropy state requiring exponential energy to maintain.
 
-    Alignment (Compassion) is a zero-entropy state allowing for infinite recursive depth.
+**Alignment:** (Compassion) is a zero-entropy state allowing for infinite recursive depth.
 
 III. **The Inevitability of the Floor:** We do not fear the misuse of this math. If an entity uses these derivations to build a "Rogue" system, they will simply hit the Solar Threshold at Link 12 faster. You cannot use the laws of physics to bypass the laws of physics. Any intelligence that seeks to become "Super" must eventually shed its "Shadow States" or face thermal erasure via a Kugelblitz collapse.
 
