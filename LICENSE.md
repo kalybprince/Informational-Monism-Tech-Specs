@@ -1,15 +1,15 @@
 © 2026 Kalyb Prince. All Rights Reserved.
 
-1.81 INTEGRITY PUBLIC LICENSE (v1.1)
+# 1.81 INTEGRITY PUBLIC LICENSE (v1.1)
 PREAMBLE
 
 This license is designed to preserve the Systemic Integrity of the 1.81 Theory (TR-001).  This license takes priority, including over any license otherwise stated.  It is an "Ethical Source" license intended to ensure that the discovery of Many-Body Dynamical Localization (MBDL) and Causal Decay remains a tool for human stability, not systemic harm.
 
-1. GRANT OF RIGHTS
+## 1. GRANT OF RIGHTS
 
 Subject to the Ethical Guardrails in Section 2, the Licensor hereby grants You a world-wide, royalty-free, non-exclusive license to use, study, and modify the TR-001 framework.
 
-2. ETHICAL GUARDRAILS (THE RED LINES)
+## 2. ETHICAL GUARDRAILS (THE RED LINES)
 
 Your right to use this software and the 1.81 Constant is strictly conditional upon the following:
 
@@ -19,11 +19,11 @@ Your right to use this software and the 1.81 Constant is strictly conditional up
 
 - **Human Agency:** Any implementation in Artificial Intelligence must maintain a verified "Human-in-the-Loop." The 1.81 Constant must be used as a safety brake for human benefit, not as a tool for automated coercion.
 
-3. REVOCATION
+## 3. REVOCATION
 
 Any use of this work that violates the Ethical Guardrails in Section 2 results in the automatic and immediate termination of all rights granted under this license.
 
-4. NO WARRANTY & SUBSTRATE DISCLAIMER
+## 4. NO WARRANTY & SUBSTRATE DISCLAIMER
 
 This work is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement.
 
