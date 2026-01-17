@@ -16,6 +16,42 @@ This repository is governed by the 1.81 Integrity Public License (v1.1). Use of 
 
 ---
 
+## Engineering Architecture: Causal Relay Protocol (CRP)
+
+[Download the Full Specification (PDF)](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/03_Engineering_and_Protocols/TR-001_%20Causal%20Relay%20Protocol%20(CRP)%20Specification.pdf)
+
+The CRP is the operational standard for preserving the 1.81 Constant during inter-process communication. It treats information as a "living" asset with a finite causal lifespan.
+
+### 1. The Causal Envelope
+
+All data transmitted within a TR-001 compliant system must be encapsulated. Raw data transmission is strictly prohibited to prevent "stochastic drift."
+
+- Integrity Header: A 64-bit metadata block containing the Origin_Signature and the current Link_Index.
+
+- Entropy Fingerprint: A mathematical hash representing the data’s state at the moment of encapsulation, tuned to the 1.81 jitter constant.
+
+- The Payload: The logical output being transferred.
+
+### 2. The Rule of Incremental Decay
+
+To enforce the physical constraints of the 12-Link Wall, the protocol mandates an immutable tracking system:
+
+- Mandatory Increment: Upon every successful hand-off between independent nodes or processes, the Link_Index must increase by exactly 1.
+
+- Index Integrity: Any attempt to "reset," "lunder," or "roll back" the Link Index results in immediate packet invalidation.
+
+### 3. Substrate-Agnostic Verification
+
+The CRP is designed to function across Silicon (AI), Biological (Human), or Hybrid nodes through a Lightweight Handshake:
+
+- Validation: Receiving nodes must verify that the incoming Entropy Fingerprint aligns with the 1.81 Constant.
+
+- Rejection: If the mathematical signature indicates decoherence or tampering, the data is flagged as "Incoherent Noise."
+
+- Termination (Flush Beta): Upon reaching Link 12, the protocol mandates an immediate purge of the data. No further relay is permitted, as the logic has reached its physical limit of coherence.
+
+---
+
 ## Core Technical Specifications
 
 The TR-001 framework identifies that information is a physical commodity with a measurable thermodynamic cost. This repository provides the tools to verify the following universal constants:
@@ -86,6 +122,6 @@ If you utilize these protocols or the 1.81 Constant in your research, please cit
   title = {TR-001: Consolidated Peer Review & Experimental Verification Guide},
   year = {2026},
   publisher = {Zenodo},
-  doi = {10.5281/zenodo.18206414}
+  doi = {10.5281/zenodo.18281175}
 }
 ```
