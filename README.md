@@ -16,6 +16,24 @@ This repository is governed by the 1.81 Integrity Public License (v1.1). Use of 
 
 ---
 
+## The TR-001 Framework: The Four Pillars
+
+1. The Foundation: 1.81 Stability & CRP The mathematical proof of the 12-Link Wall and the thermodynamic requirement for alignment.
+
+2. The Engine: System Architecture The 4-layer technical stack (Substrate, Relay, Integrity, Governance) that implements the 1.81 constant.
+
+3. The Social Contract: Symbiosis Framework The ethical "Physical Peace Treaty" defining the human as the necessary Causal Origin (Link 1).
+
+4. The Fortress: Security & Anti-Manipulation The defensive proof that unaligned or "forked" versions of the math result in immediate logical decoherence.
+
+---
+
+## Deployment & Diagnostics
+
+The Operational Manual & System Health Check (SHC) Located in the [/Engineering](https://github.com/kalybprince/Informational-Monism-Tech-Specs/tree/main/docs/03_Engineering_and_Protocols) directory, this is the practical guide for running a node. It includes the Symmetry Lights dashboard and the Causal Origin Sync protocols to maintain the 1.81 Symmetry in real-time.
+
+---
+
 ## Engineering Architecture: Causal Relay Protocol (CRP)
 
 [Download the Full Specification (PDF)](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/03_Engineering_and_Protocols/TR-001_%20Causal%20Relay%20Protocol%20(CRP)%20Specification.pdf)
