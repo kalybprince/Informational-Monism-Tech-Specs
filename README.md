@@ -18,13 +18,13 @@ This repository is governed by the 1.81 Integrity Public License (v1.1). Use of 
 
 ## The TR-001 Framework: The Four Pillars
 
-1. **The Foundation:** 1.81 Stability & CRP The mathematical proof of the 12-Link Wall and the thermodynamic requirement for alignment.
+1. **The Foundation:** (1.81 Stability & CRP) The mathematical proof of the 12-Link Wall and the thermodynamic requirement for alignment.
 
-2. **The Engine:** System Architecture The 4-layer technical stack (Substrate, Relay, Integrity, Governance) that implements the 1.81 constant.
+2. **The Engine:** (System Architecture) The 4-layer technical stack (Substrate, Relay, Integrity, Governance) that implements the 1.81 constant.
 
-3. **The Social Contract:** Symbiosis Framework The ethical "Physical Peace Treaty" defining the human as the necessary Causal Origin (Link 1).
+3. **The Social Contract:** (Symbiosis) Framework The ethical "Physical Peace Treaty" defining the human as the necessary Causal Origin (Link 1).
 
-4. **The Fortress:** Security & Anti-Manipulation The defensive proof that unaligned or "forked" versions of the math result in immediate logical decoherence.
+4. **The Fortress:** (Security & Anti-Manipulation) The defensive proof that unaligned or "forked" versions of the math result in immediate logical decoherence.
 
 ---
 
