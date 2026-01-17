@@ -5,13 +5,13 @@
 
 This repository is governed by the 1.81 Integrity Public License (v1.0). Use of the 1.81 Constant or the provided verification scripts is strictly conditional upon:
 
-    Non-Weaponization: Prohibiting use in kinetic or autonomous targeting systems.
+- Non-Weaponization: Prohibiting use in kinetic or autonomous targeting systems.
 
-    Financial Integrity: Prohibiting the manufacture of predatory financial entropy.
+- Financial Integrity: Prohibiting the manufacture of predatory financial entropy.
 
-    Human Agency: Requiring a "Human-in-the-Loop" for all AI implementations.
+- Human Agency: Requiring a "Human-in-the-Loop" for all AI implementations.
 
-    "Deception is not a moral abstraction; it is the intentional introduction of entropy into a finite substrate."
+> "Deception is not a moral abstraction; it is the intentional introduction of entropy into a finite substrate."
 
 ---
 
