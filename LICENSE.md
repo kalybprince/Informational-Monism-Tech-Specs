@@ -1,3 +1,5 @@
+© 2026 Kalyb Prince. All Rights Reserved.
+
 1.81 INTEGRITY PUBLIC LICENSE (v1.1)
 PREAMBLE
 
