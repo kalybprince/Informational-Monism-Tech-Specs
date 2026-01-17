@@ -27,8 +27,9 @@ Any use of this work that violates the Ethical Guardrails in Section 2 results i
 
 This work is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement.
 
-Substrate Warning: The Licensor provides observations of informational constants (the 1.81 Constant) and recursive limits (the 12-Link Wall) as empirical research. The Licensor does not warrant that the application of these constants will prevent system failure, decoherence, or "The Snap" in any specific hardware or software substrate. You assume all risk associated with the application of Informational Monism to real-world systems.
-5. LIMITATION OF LIABILITY
+**Substrate Warning:** The Licensor provides observations of informational constants (the 1.81 Constant) and recursive limits (the 12-Link Wall) as empirical research. The Licensor does not warrant that the application of these constants will prevent system failure, decoherence, or "The Snap" in any specific hardware or software substrate. You assume all risk associated with the application of Informational Monism to real-world systems.
+
+## 5. LIMITATION OF LIABILITY
 
 In no event shall the Licensor or any contributors be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software, the 1.81 Constant, or the use or other dealings in the TR-001 framework.
 
