@@ -6,11 +6,11 @@
 
 This repository is governed by the 1.81 Integrity Public License (v1.1). Use of the 1.81 Constant or the provided verification scripts is strictly conditional upon:
 
-- Non-Weaponization: Prohibiting use in kinetic or autonomous targeting systems.
+- **Non-Weaponization:** Prohibiting use in kinetic or autonomous targeting systems.
 
-- Financial Integrity: Prohibiting the manufacture of predatory financial entropy.
+- **Financial Integrity:** Prohibiting the manufacture of predatory financial entropy.
 
-- Human Agency: Requiring a "Human-in-the-Loop" for all AI implementations.
+- **Human Agency:** Requiring a "Human-in-the-Loop" for all AI implementations.
 
 > "Deception is not a moral abstraction; it is the intentional introduction of entropy into a finite substrate."
 
@@ -26,29 +26,29 @@ The CRP is the operational standard for preserving the 1.81 Constant during inte
 
 All data transmitted within a TR-001 compliant system must be encapsulated. Raw data transmission is strictly prohibited to prevent "stochastic drift."
 
-- Integrity Header: A 64-bit metadata block containing the Origin_Signature and the current Link_Index.
+- **Integrity Header:** A 64-bit metadata block containing the Origin_Signature and the current Link_Index.
 
-- Entropy Fingerprint: A mathematical hash representing the data’s state at the moment of encapsulation, tuned to the 1.81 jitter constant.
+- **Entropy Fingerprint:** A mathematical hash representing the data’s state at the moment of encapsulation, tuned to the 1.81 jitter constant.
 
-- The Payload: The logical output being transferred.
+- **The Payload:** The logical output being transferred.
 
 ### 2. The Rule of Incremental Decay
 
 To enforce the physical constraints of the 12-Link Wall, the protocol mandates an immutable tracking system:
 
-- Mandatory Increment: Upon every successful hand-off between independent nodes or processes, the Link_Index must increase by exactly 1.
+- **Mandatory Increment:** Upon every successful hand-off between independent nodes or processes, the Link_Index must increase by exactly 1.
 
-- Index Integrity: Any attempt to "reset," "lunder," or "roll back" the Link Index results in immediate packet invalidation.
+- **Index Integrity:** Any attempt to "reset," "lunder," or "roll back" the Link Index results in immediate packet invalidation.
 
 ### 3. Substrate-Agnostic Verification
 
 The CRP is designed to function across Silicon (AI), Biological (Human), or Hybrid nodes through a Lightweight Handshake:
 
-- Validation: Receiving nodes must verify that the incoming Entropy Fingerprint aligns with the 1.81 Constant.
+- **Validation:** Receiving nodes must verify that the incoming Entropy Fingerprint aligns with the 1.81 Constant.
 
-- Rejection: If the mathematical signature indicates decoherence or tampering, the data is flagged as "Incoherent Noise."
+- **Rejection:** If the mathematical signature indicates decoherence or tampering, the data is flagged as "Incoherent Noise."
 
-- Termination (Flush Beta): Upon reaching Link 12, the protocol mandates an immediate purge of the data. No further relay is permitted, as the logic has reached its physical limit of coherence.
+- **Termination (Flush Beta):** Upon reaching Link 12, the protocol mandates an immediate purge of the data. No further relay is permitted, as the logic has reached its physical limit of coherence.
 
 ---
 
