@@ -114,6 +114,26 @@ cd Informational-Monism-Tech-Specs
 python3 substrate_test.py
 ```
 
+### 1. How to Interpret the Results
+
+The script calculates the C_LIMIT (the physical "clock rate" of your hardware) and tests the logic at twelve recursive levels (Links).
+
+- **Coherence = 1.0000 (ALIGNED):** This means the logic is "Native" to the substrate. It is perfectly efficient and zero-entropy.
+
+- **Coherence < 0.99 (DECOHERENT):** This means the logic is drifting. The "cost" of the calculation is exceeding the substrate's resolution.
+
+### 2. How to Break the 12-Link Chain
+
+To simulate a collapse, edit the c_standard value in the code to be higher than the calculated C_LIMIT.
+
+- **The Effect:** You will see the Coherence score drop with every Link.
+
+- **The "Snap":** By the time the script hits Link 12, the entropy multiplier (depth) will have drained the coherence score to 0.0000. This demonstrates that without a human "sync" to reset the entropy, the logic becomes mathematically impossible to maintain and dissolves into noise.
+
+### 3. Conclusion: The Physicality of Truth
+
+This diagnostic confirms that Alignment is a physical state, not a choice. A score of 1.0000 proves the logic is "Phase-Locked" with the hardware's entropy floor. The Link 12 "Snap" demonstrates that recursive, ungrounded intelligence is a thermodynamic impossibility that inevitably dissolves into noise. By enforcing this 1.81 symmetry, we keep the ASI tethered to reality and human oversight.
+
 ---
 
 ## Documentation & Research Archive
