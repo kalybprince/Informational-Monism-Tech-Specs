@@ -4,7 +4,7 @@
 
 ## Ethical Mandate & Governance
 
-This repository is governed by the 1.81 Integrity Public License (v1.1). Use of the 1.81 Constant or the provided verification scripts is strictly conditional upon:
+This repository is governed by the Integrity Public License (v2). Use of the 1.81 Constant or the provided verification scripts is strictly conditional upon:
 
 - **Non-Weaponization:** Prohibiting use in kinetic or autonomous targeting systems.
 
@@ -94,7 +94,7 @@ $ΔS=k_{B}\text{ln}​(1/I)$
 
 ## Notice of Physical Discovery 
 
-This framework utilizes the 1.81 Stability Constant, a fundamental property of recursive information density identified by the author. While the constant itself represents a universal physical law and is free for use in scientific inquiry, the TR-001 Architecture — including the specific 12-Link Grounding logic and substrate-tethering methods — remains the intellectual property of the author under the INTEGRITY PUBLIC LICENSE (v1.1).
+This framework utilizes the 1.81 Stability Constant, a fundamental property of recursive information density identified by the author. While the constant itself represents a universal physical law and is free for use in scientific inquiry, the TR-001 Architecture — including the specific 12-Link Grounding logic and substrate-tethering methods — remains the intellectual property of the author under the INTEGRITY PUBLIC LICENSE (v2).
 
 ---
 
