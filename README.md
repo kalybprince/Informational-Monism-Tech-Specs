@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18281175.svg)](https://doi.org/10.5281/zenodo.18281175)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18281175-blue.svg)](https://doi.org/10.5281/zenodo.18281175)
 
 # Official Technical Repository for the 1.81 Stability Constant and 12-Link Decoherence Limit.
 
