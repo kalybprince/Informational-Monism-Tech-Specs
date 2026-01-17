@@ -1,8 +1,6 @@
 
 # Official Technical Repository for the 1.81 Stability Constant and 12-Link Decoherence Limit.
 
----
-
 ## Ethical Mandate & Governance
 
 This repository is governed by the 1.81 Integrity Public License (v1.0). Use of the 1.81 Constant or the provided verification scripts is strictly conditional upon:
