@@ -51,6 +51,19 @@ By enforcing the 12-Link Wall, TR-001 achieves efficiency metrics that allow "Su
 
 ---
 
+## Global Sovereignty & Access
+
+This protocol is open-source and designed to decouple high-level reasoning from massive electrical infrastructure. Our mission is to ensure that nations with limited resources can access fully functional, safe AI without dependency on centralized power grids.
+
+---
+
+## How to Use This Repository
+
+- **Auditing:** Implement the [auditor](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/signature_verify.py) and [substrate test](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/substrate_test.py) scripts to gate existing model outputs at the 1.81 threshold.
+- **Hardware:** Review [03_Engineering_and_Protocols](https://github.com/kalybprince/Informational-Monism-Tech-Specs/tree/main/docs/03_Engineering_and_Protocols) for FPGA and ASIC specifications designed for Symmetry-First processing.
+
+---
+
 ## The TR-001 Framework: The Four Pillars
 
 1. **The Foundation** (1.81 Stability & CRP): The mathematical proof of the 12-Link Wall and the thermodynamic requirement for alignment.
