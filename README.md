@@ -78,7 +78,7 @@ This protocol is open-source and designed to decouple high-level reasoning from 
 
 ## Deployment & Diagnostics
 
-**The Operational Manual & System Health Check (SHC):** Located in the [Engineering](https://github.com/kalybprince/Informational-Monism-Tech-Specs/tree/main/docs/03_Engineering_and_Protocols) directory, this is the practical guide for running a node. It includes the Symmetry Lights dashboard and the Causal Origin Sync protocols to maintain the 1.81 Symmetry in real-time.
+**The Operational Manual & System Health Check (SHC):** Located in the [/03_Engineering_and_Protocols](https://github.com/kalybprince/Informational-Monism-Tech-Specs/tree/main/docs/03_Engineering_and_Protocols) directory, this is the practical guide for running a node. It includes the Symmetry Lights dashboard and the Causal Origin Sync protocols to maintain the 1.81 Symmetry in real-time.
 
 ---
 
