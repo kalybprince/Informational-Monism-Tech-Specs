@@ -34,6 +34,13 @@ This repository is governed by the Integrity Public License (v2). Use of the 1.8
 
 ---
 
+## EFFICIENCY
+
+[Thermodynamic Efficiency of the TR-001 Protocol
+](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/06_white_papers/TR-001_%20White%20Paper_%20Thermodynamic%20Efficiency%20of%20the%20TR-001%20Protocol.pdf)
+
+---
+
 ## The TR-001 Framework: The Four Pillars
 
 1. **The Foundation** (1.81 Stability & CRP): The mathematical proof of the 12-Link Wall and the thermodynamic requirement for alignment.
