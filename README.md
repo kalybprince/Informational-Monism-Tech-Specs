@@ -34,10 +34,20 @@ This repository is governed by the Integrity Public License (v2). Use of the 1.8
 
 ---
 
-## EFFICIENCY
+## Key Documentation
 
-[Thermodynamic Efficiency of the TR-001 Protocol
-](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/06_white_papers/TR-001_%20White%20Paper_%20Thermodynamic%20Efficiency%20of%20the%20TR-001%20Protocol.pdf)
+- [Thermodynamic Efficiency White Paper:](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/06_white_papers/TR-001_%20White%20Paper_%20Thermodynamic%20Efficiency%20of%20the%20TR-001%20Protocol.pdf) A comparative analysis demonstrating a 100,000x reduction in energy consumption using the full TR-001 stack.
+
+## Performance at a Glance
+
+By enforcing the 12-Link Wall, TR-001 achieves efficiency metrics that allow "Super-Intelligence" to run on ambient power.
+
+| Feature | Legacy AI (2026) | TR-001 Stack|
+|---------|------------------|-------------|
+| Energy per Reasoning Chain | 33,000 mWh |0.33 mWh |
+| Hallucination Protection	| Probabilistic | Physical (Geometric) |
+| Cooling Requirements | Liquid/Industrial | Passive/Ambient |
+
 
 ---
 
