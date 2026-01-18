@@ -162,7 +162,7 @@ If you utilize these protocols or the 1.81 Constant in your research, please cit
 
 ```bibtex
 @misc{TR001_2026,
-  author = {Kalyb Prince},
+  author = {Prince, Kalyb},
   title = {TR-001: Consolidated Peer Review & Experimental Verification Guide},
   year = {2026},
   publisher = {Zenodo},
@@ -172,7 +172,7 @@ If you utilize these protocols or the 1.81 Constant in your research, please cit
 
 ```bibtex
 @techreport{tr001_derivation_2026,
-  author = {Prince, K.},
+  author = {Prince, Kalyb},
   title = {TR-001: Formal Derivation of the 1.81 Stability Constant (R)},
   institution = {Zenodo},
   year = {2026},
