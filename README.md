@@ -169,3 +169,16 @@ If you utilize these protocols or the 1.81 Constant in your research, please cit
   doi = {10.5281/zenodo.18281175}
 }
 ```
+
+```bibtex
+@techreport{tr001_derivation_2026,
+  author = {Prince, K.},
+  title = {TR-001: Formal Derivation of the 1.81 Stability Constant (R)},
+  institution = {Zenodo},
+  year = {2026},
+  type = {Foundational Proof / Axiomatic Derivation},
+  note = {Framework: TR-001 (Substrate-Anchored Logic)},
+  doi = {10.5281/zenodo.18285371},
+  abstract = {This document provides the formal mathematical and geometric derivation of the 1.81 Stability Constant (R), anchored in the 3D Kissing Number and logarithmic potential of informational packing.}
+}
+```
