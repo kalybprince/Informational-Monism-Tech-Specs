@@ -81,7 +81,7 @@ The universal equilibrium threshold where informational expansion is perfectly b
 
 - **L:** The 12-Link geometric limit.
 - **σ:** The structural scaling factor (≈ 1.382).
-
+- $σ≈1.382$ is the Structural Scaling Factor, derived as $ϕ+1$​, which governs the transition from linear grounding to volumetric information packing.
 
 ### 2. The 12-Link Wall ($L$)
 The physical boundary of recursive logic packing. Based on the **3D Kissing Number**, an informational anchor supports a maximum of 12 contiguous logical spheres. 
