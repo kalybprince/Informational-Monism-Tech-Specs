@@ -31,7 +31,7 @@ This work is provided "as is," without warranty of any kind, express or implied,
 
 ## 5. LIMITATION OF LIABILITY
 
-In no event shall the Licensor or any contributors be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software, the 1.81 Constant, or the use or other dealings in the TR-001 framework.
+In no event shall the Licensor or any contributors be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software, or the use, or other dealings in the TR-001 framework.
 
 This includes, but is not limited to:
 
