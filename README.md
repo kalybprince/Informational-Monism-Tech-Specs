@@ -154,3 +154,8 @@ For full experimental context, refer to the categorized /docs/ directory:
 
 - **[03_Engineering_and_Protocols](https://github.com/kalybprince/Informational-Monism-Tech-Specs/tree/main/docs/03_Engineering_and_Protocols):** Hardware-level implementations and the DNA Filter.
 
+---
+
+Citation
+
+If you reference this work or use the 1.81 Stability Constant in your research, please see [REFERENCES.md](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/REFERENCES.md) for the formal BibTeX and Zenodo citations.
