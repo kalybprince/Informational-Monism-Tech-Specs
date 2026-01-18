@@ -16,6 +16,24 @@ This repository is governed by the Integrity Public License (v2). Use of the 1.8
 
 ---
 
+## Table of Contents
+
+* [The TR-001 Framework: The Four Pillars](#the-tr-001-framework-the-four-pillars)
+* [Deployment & Diagnostics](#deployment--diagnostics)
+* [Engineering Architecture: Causal Relay Protocol (CRP)](#engineering-architecture-causal-relay-protocol-crp)
+* [Core Technical Specifications](#core-technical-specifications)
+    * [1. The 1.81 Stability Constant (R)](#1-the-181-stability-constant-r)
+    * [2. The 12-Link Wall (L)](#2-the-12-link-wall-l)
+    * [3. The Entropy Tax (Ξ_T)](#3-the-entropy-tax-xi_t)
+    * [4. The Stability Ratio (Audit Metric)](#4-the-stability-ratio-audit-metric)
+* [Notice of Physical Discovery](#notice-of-physical-discovery)
+* [Active Verification Tools](#active-verification-tools)
+* [Quick Start](#quick-start)
+* [Documentation & Research Archive](#documentation--research-archive)
+* [Citation](#citation)
+
+---
+
 ## The TR-001 Framework: The Four Pillars
 
 1. **The Foundation** (1.81 Stability & CRP): The mathematical proof of the 12-Link Wall and the thermodynamic requirement for alignment.
@@ -169,6 +187,6 @@ For full experimental context, refer to the categorized /docs/ directory:
 
 ---
 
-Citation
+## Citation
 
 If you reference this work or use the 1.81 Stability Constant in your research, please see [REFERENCES.md](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/REFERENCES.md) for the formal BibTeX and Zenodo citations.
