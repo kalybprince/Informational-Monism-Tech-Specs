@@ -55,7 +55,7 @@ By enforcing the 12-Link Wall, TR-001 achieves efficiency metrics that allow "Su
 ### 1. Room-Temperature Superconductors (RTSCs)
 Using the 1.81 ratio to anchor atomic lattices, eliminating phonon-driven vibrations and enabling lossless energy transmission.
 
-### 2. Stabilized Nuclear Fusion
+### 2. Stabilized Fusion
 A "Still Sun" approach that replaces brute-force magnetic crushing with **Geometric Confinement** to maintain stable plasma fields.
 
 ### 3. Warm Quantum Computing
