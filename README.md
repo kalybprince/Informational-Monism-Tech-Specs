@@ -139,7 +139,6 @@ The universal equilibrium threshold where informational expansion is perfectly b
 **$R = \frac{\ln(L)}{\sigma} \approx 1.81$**
 
 - **L:** The 12-Link geometric limit.
-- **σ:** The structural scaling factor (≈ 1.382).
 - $σ≈1.382$ is the Structural Scaling Factor, derived as $\sqrt{\phi+1}$​, which governs the transition from linear grounding to volumetric information packing.
 
 ### 2. The 12-Link Wall ($L$)
