@@ -63,7 +63,7 @@ This protocol is open-source and designed to decouple high-level reasoning from 
 
 ## The TR-001 Framework: The Four Pillars
 
-1. **The Foundation** (1.81 Stability & CRP): The mathematical proof of the 12-Link Wall and the thermodynamic requirement for alignment.
+1. **The Foundation** (1.81 Stability & CRP): The mathematical proof of the 12-Link Wall and the thermodynamic requirement for AI alignment.
 
 2. **The Engine** (System Architecture): The 4-layer technical stack (Substrate, Relay, Integrity, Governance) that implements the 1.81 constant.
 
