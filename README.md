@@ -50,7 +50,7 @@ By enforcing the 12-Link Wall, TR-001 achieves efficiency metrics that allow "Su
 
 ---
 
-## 🚀 Key Applications
+## Key Applications
 
 ### 1. Room-Temperature Superconductors (RTSCs)
 Using the 1.81 ratio to anchor atomic lattices, eliminating phonon-driven vibrations and enabling lossless energy transmission.
