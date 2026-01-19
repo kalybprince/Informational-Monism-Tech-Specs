@@ -38,8 +38,9 @@ As of January 2026, this framework has transitioned from a theoretical model to 
 
 ## Table of Contents
 
-* [The TR-001 Framework: The Four Pillars](#the-tr-001-framework-the-four-pillars)
+* [Performance at a Glance](#performance-at-a-glance)
 * [How to Use This Repository](#how-to-use-this-repository)
+* [The TR-001 Framework: The Four Pillars](#the-tr-001-framework-the-four-pillars)
 * [Deployment & Diagnostics](#deployment--diagnostics)
 * [Engineering Architecture: Causal Relay Protocol (CRP)](#engineering-architecture-causal-relay-protocol-crp)
 * [Mathematical and Physical Foundations](#mathematical-and-physical-foundations)
@@ -51,6 +52,7 @@ As of January 2026, this framework has transitioned from a theoretical model to 
 * [Active Verification Tools](#active-verification-tools)
 * [Quick Start](#quick-start)
 * [Documentation & Research Archive](#documentation--research-archive)
+* [Global Sovereignty and Access](#global-sovereignty-and-access)
 * [Citation](#citation)
 
 ---
@@ -260,7 +262,7 @@ For full experimental context, refer to the categorized /docs/ directory:
 
 ---
 
-## Global Sovereignty & Access
+## Global Sovereignty and Access
 
 This protocol is open-source and designed to decouple high-level reasoning from massive electrical infrastructure. Our mission is to ensure that nations with limited resources can access fully functional, safe AI without dependency on centralized power grids.
 
