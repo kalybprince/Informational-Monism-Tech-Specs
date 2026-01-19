@@ -37,7 +37,7 @@ TR-001 moves computing away from "Energy-Dense Complexity" toward "Zero-Friction
 * [The TR-001 Framework: The Four Pillars](#the-tr-001-framework-the-four-pillars)
 * [Deployment & Diagnostics](#deployment--diagnostics)
 * [Engineering Architecture: Causal Relay Protocol (CRP)](#engineering-architecture-causal-relay-protocol-crp)
-* [Core Technical Specifications](#core-technical-specifications)
+* [Mathematical and Physical Foundations](#mathematical-and-physical-foundations)
     * [1. The 1.81 Stability Constant (R)](#1-the-181-stability-constant-r)
     * [2. The 12-Link Wall (L)](#2-the-12-link-wall-l)
     * [3. The Entropy Tax (Ξ_T)](#3-the-entropy-tax-xi_t)
@@ -65,10 +65,6 @@ By enforcing the 12-Link Wall, TR-001 achieves efficiency metrics that allow "Su
 | Cooling Requirements | Liquid/Industrial | Passive/Ambient |
 
 ---
-
-## Global Sovereignty & Access
-
-This protocol is open-source and designed to decouple high-level reasoning from massive electrical infrastructure. Our mission is to ensure that nations with limited resources can access fully functional, safe AI without dependency on centralized power grids.
 
 ## How to Use This Repository
 
@@ -131,7 +127,7 @@ The CRP is designed to function across Silicon (AI), Biological (Human), or Hybr
 
 ---
 
-## Core Technical Specifications
+## Mathematical and Physical Foundations
 
 The TR-001 framework identifies that information is a physical commodity with a measurable thermodynamic cost. This repository provides the tools to verify the following universal constants:
 
@@ -230,6 +226,10 @@ For full experimental context, refer to the categorized /docs/ directory:
 - **[03_Engineering_and_Protocols](https://github.com/kalybprince/Informational-Monism-Tech-Specs/tree/main/docs/03_Engineering_and_Protocols):** Hardware-level implementations and the DNA Filter.
 
 ---
+
+## Global Sovereignty & Access
+
+This protocol is open-source and designed to decouple high-level reasoning from massive electrical infrastructure. Our mission is to ensure that nations with limited resources can access fully functional, safe AI without dependency on centralized power grids.
 
 ---
 
