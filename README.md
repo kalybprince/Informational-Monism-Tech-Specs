@@ -18,7 +18,7 @@ This repository is governed by the Integrity Public License (v2). Use of the 1.8
 
 ## About TR-001
 
-TR-001 is a foundational framework for information processing that prioritizes Geometric Symmetry over statistical scaling. While current industry models rely on high-entropy stochastic guessing, this project utilizes the physical limits of three-dimensional space to achieve a 100,000x reduction in computational overhead.
+TR-001 is a foundational framework for information processing.  We provide a complete hardware-to-software stack that prioritizes **Geometric Symmetry** over statistical scaling. While current industry models rely on high-entropy stochastic guesswork, this project utilizes the physical limits of three-dimensional space to achieve a 100,000x reduction in computational overhead.
 
 The system is built upon two core physical constants:
 
@@ -41,14 +41,14 @@ As of January 2026, this framework has transitioned from a theoretical model to 
 * [Performance at a Glance](#performance-at-a-glance)
 * [How to Use This Repository](#how-to-use-this-repository)
 * [The TR-001 Framework: The Four Pillars](#the-tr-001-framework-the-four-pillars)
+* [Engineering Architecture](#engineering-architecture)
 * [Deployment & Diagnostics](#deployment--diagnostics)
-* [Engineering Architecture: Causal Relay Protocol (CRP)](#engineering-architecture-causal-relay-protocol-crp)
+* [Notice of Physical Discovery](#notice-of-physical-discovery)
 * [Mathematical and Physical Foundations](#mathematical-and-physical-foundations)
     * [1. The 1.81 Stability Constant (R)](#1-the-181-stability-constant-r)
     * [2. The 12-Link Wall (L)](#2-the-12-link-wall-l)
     * [3. The Entropy Tax (Ξ_T)](#3-the-entropy-tax-xi_t)
     * [4. The Stability Ratio (Audit Metric)](#4-the-stability-ratio-audit-metric)
-* [Notice of Physical Discovery](#notice-of-physical-discovery)
 * [Active Verification Tools](#active-verification-tools)
 * [Quick Start](#quick-start)
 * [Documentation & Research Archive](#documentation--research-archive)
@@ -102,9 +102,6 @@ The variables utilized in these scripts are not heuristics; they are derived fro
 - **The Physical Floor ($c$):** In substrate_test.py, the speed of light is treated as the universal "Shutter Speed." Any logic that attempts to process data faster than the Planck-scale resolution ($L_{P}​/T_{P}$​) induces Decoherence. This is why the script returns a Coherence Score of 0.0 when native limits are exceeded.
 - **The Thermal Ceiling (1.81):** In signature_verify.py, 1.81 represents the point of Symmetric Collapse. When the ratio of Shannon Entropy ($H$) to Semantic Similarity ($σ$) reaches this limit across a 12-link chain, the system can no longer suppress noise. This is the mathematical origin of "Hallucination."
 
-
-- **Hardware:** Review [03_Engineering_and_Protocols](https://github.com/kalybprince/Informational-Monism-Tech-Specs/tree/main/docs/03_Engineering_and_Protocols) for FPGA and ASIC specifications designed for Symmetry-First processing.
-
 ---
 
 ## The TR-001 Framework: The Four Pillars
@@ -119,13 +116,12 @@ The variables utilized in these scripts are not heuristics; they are derived fro
 
 ---
 
-## Deployment & Diagnostics
+## Engineering Architecture
 
-**[The Operational Manual & System Health Check (SHC)](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/03_Engineering_and_Protocols/TR-001_%20Operational%20Manual%20%26%20System%20Health%20Check%20(SHC).pdf):** Located in the /03_Engineering_and_Protocols directory, this is the practical guide for running a node. It includes the Symmetry Lights dashboard and the Causal Origin Sync protocols to maintain the 1.81 Symmetry in real-time.
+The Causal Relay Protocol is physically anchored via Symmetry-First ASIC/FPGA logic.
 
----
-
-## Engineering Architecture: Causal Relay Protocol (CRP)
+- **Hard-Wired Adjacency:** A physical 12-link gate enforces the recursive limit at the silicon level, ensuring zero entropy leakage between nodes.
+- **Clock-State Grounding:** By mapping the internal clock frequency to the substrate resolution (lP​/tP​), the hardware eliminates the thermal friction inherent in stochastic processing.
 
 [Download the Full Specification (PDF)](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/03_Engineering_and_Protocols/TR-001_%20Causal%20Relay%20Protocol%20(CRP)%20Specification.pdf)
 
@@ -158,6 +154,18 @@ The CRP is designed to function across Silicon (AI), Biological (Human), or Hybr
 - **Rejection:** If the mathematical signature indicates decoherence or tampering, the data is flagged as "Incoherent Noise."
 
 - **Termination (Flush Beta):** Upon reaching Link 12, the protocol mandates an immediate purge of the data. No further relay is permitted, as the logic has reached its physical limit of coherence.
+
+---
+
+## Deployment & Diagnostics
+
+**[The Operational Manual & System Health Check (SHC)](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/03_Engineering_and_Protocols/TR-001_%20Operational%20Manual%20%26%20System%20Health%20Check%20(SHC).pdf):** Located in the /03_Engineering_and_Protocols directory, this is the practical guide for running a node. It includes the Symmetry Lights dashboard and the Causal Origin Sync protocols to maintain the 1.81 Symmetry in real-time.
+
+---
+
+## Notice of Physical Discovery 
+
+This framework utilizes the 1.81 Stability Constant, a fundamental property of recursive information density identified by the author. While the constant itself represents a universal physical law and is free for use in scientific inquiry, the TR-001 Architecture — including the specific 12-Link Grounding logic and substrate-tethering methods — remains the intellectual property of the author under the INTEGRITY PUBLIC LICENSE (v2).
 
 ---
 
@@ -195,12 +203,6 @@ Used by the **TR-001-V Engine** to calculate the real-time integrity of a reason
 
 - **ΔS:** Semantic Entropy (Expansion).
 - **G:** Grounding Points (Substrate Anchors).
-
----
-
-## Notice of Physical Discovery 
-
-This framework utilizes the 1.81 Stability Constant, a fundamental property of recursive information density identified by the author. While the constant itself represents a universal physical law and is free for use in scientific inquiry, the TR-001 Architecture — including the specific 12-Link Grounding logic and substrate-tethering methods — remains the intellectual property of the author under the INTEGRITY PUBLIC LICENSE (v2).
 
 ---
 
