@@ -39,6 +39,7 @@ As of January 2026, this framework has transitioned from a theoretical model to 
 ## Table of Contents
 
 * [The TR-001 Framework: The Four Pillars](#the-tr-001-framework-the-four-pillars)
+* [How to Use This Repository](#how-to-use-this-repository)
 * [Deployment & Diagnostics](#deployment--diagnostics)
 * [Engineering Architecture: Causal Relay Protocol (CRP)](#engineering-architecture-causal-relay-protocol-crp)
 * [Mathematical and Physical Foundations](#mathematical-and-physical-foundations)
@@ -70,7 +71,7 @@ By enforcing the 12-Link Wall, TR-001 achieves efficiency metrics that allow "Su
 
 ## How to Use This Repository
 
-Beyond providing a unified hardware-to-software stack, this repository includes FPGA & ASIC specifications optimized for **Symmetry-First** processing, alongside diagnostic protocols and new, foundational axioms derived specifically for this framework. To demonstrate these principles in real-time, the following scripts are available for immediate deployment:
+Beyond providing a unified hardware-to-software stack, this repository includes FPGA & ASIC specifications optimized for **Symmetry-First** processing, alongside diagnostic protocols, and foundational axioms derived specifically for this framework. To demonstrate these principles in real-time, the following scripts are available for immediate deployment:
 
 ### [signature_verify.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/signature_verify.py)**: The Thermal Firewall**
 
