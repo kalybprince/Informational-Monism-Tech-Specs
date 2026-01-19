@@ -52,7 +52,7 @@ TR-001 moves computing away from "Energy-Dense Complexity" toward "Zero-Friction
 
 ## Key Documentation
 
-- [Thermodynamic Efficiency White Paper:](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/63131d20f2c58ecaa210a134f1beafaf5beb09ab/docs/06_White_Papers/TR-001_%20White%20Paper_%20Thermodynamic%20Efficiency%20of%20the%20TR-001%20Protocol.pdf) A comparative analysis demonstrating reduction in energy consumption using the full TR-001 stack.
+- [Thermodynamic Efficiency White Paper:](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/06_White_Papers/TR-001_%20White%20Paper_%20Thermodynamic%20Efficiency%20of%20the%20TR-001%20Protocol.pdf) A comparative analysis demonstrating reduction in energy consumption using the full TR-001 stack.
 
 ## Performance at a Glance
 
