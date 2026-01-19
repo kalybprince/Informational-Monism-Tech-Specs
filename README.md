@@ -50,10 +50,6 @@ TR-001 moves computing away from "Energy-Dense Complexity" toward "Zero-Friction
 
 ---
 
-## Key Documentation
-
-- [Thermodynamic Efficiency White Paper:](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/06_White_Papers/TR-001_%20White%20Paper_%20Thermodynamic%20Efficiency%20of%20the%20TR-001%20Protocol.pdf) A comparative analysis demonstrating reduction in energy consumption using the full TR-001 stack.
-
 ## Performance at a Glance
 
 By enforcing the 12-Link Wall, TR-001 achieves efficiency metrics that allow "Super-Intelligence" to run on ambient power.
@@ -63,6 +59,8 @@ By enforcing the 12-Link Wall, TR-001 achieves efficiency metrics that allow "Su
 | Energy per Reasoning Chain | 33,000 mWh |0.33 mWh |
 | Hallucination Protection	| Probabilistic | Physical (Geometric) |
 | Cooling Requirements | Liquid/Industrial | Passive/Ambient |
+
+[Thermodynamic Efficiency White Paper:](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/06_White_Papers/TR-001_%20White%20Paper_%20Thermodynamic%20Efficiency%20of%20the%20TR-001%20Protocol.pdf) A comparative analysis demonstrating 100,000x reduction in energy consumption using the full TR-001 stack.
 
 ---
 
