@@ -70,27 +70,32 @@ By enforcing the 12-Link Wall, TR-001 achieves efficiency metrics that allow "Su
 
 ## How to Use This Repository
 
-#### [signature_verify.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/signature_verify.py)**: The Thermal Firewall**
+### [signature_verify.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/signature_verify.py)**: The Thermal Firewall**
 
-This script implements a real-time gating mechanism to enforce the 1.81 Equilibrium. By monitoring the TR-001 Signature ($S_{TR}$​) of reasoning chains, it identifies the exact point where semantic similarity ($σ$) can no longer suppress Shannon Entropy ($H$).
+This script implements a real-time gating mechanism to enforce the 1.81 Equilibrium. By monitoring the TR-001 Signature ($S_{TR}\$​) of reasoning chains, it identifies the exact point where semantic similarity ($σ$) can no longer suppress Shannon Entropy ($H$).
 
-- **Cold State ($S_{TR}​$ <1.5):** Indicates high-coherence, laminar logic. The information density is natively supported by the substrate.
+- **Cold State ($S_{TR}​<1.5$):** Indicates high-coherence, laminar logic. The information density is natively supported by the substrate.
 
 - **Thermal State ($S_{TR}​≥1.81$):** Indicates the "13th Link Failure." At this threshold, the model’s internal friction generates noise (hallucination) that exceeds the signal.
 
 **Application:** This serves as a "Hard-Stop" auditor. It identifies and terminates decoherent reasoning at the source, preventing the propagation of entropy into the final output.
 
-#### [substrate_test.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/substrate_test.py)**: The Physical Floor (Coherence Kernel)**
+### [substrate_test.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/substrate_test.py)**: The Physical Floor (Coherence Kernel)**
 
 This script verifies the Operational Grounding of the system by benchmarking information throughput against the native "clock rate" of the universe. It derives the emergent performance ceiling ($c$) from the Planck length and Planck time, establishing a hardware limit for the informational substrate.
 
 - **Coherence Mapping:** The kernel evaluates the entropy floor across a recursive 12-link logic chain. If the requested information rate exceeds the substrate's capacity ($C_{limit}​$), the script calculates the resulting decoherence.
-
 - **The 12-Link Diagnostic:** By running a 12-step recursive check, the script demonstrates the Symmetric Stability of the system. It proves that within the native limits, entropy remains at zero, representing a "Perfectly Aligned" state.
-
 - **Performance Ceiling:** It identifies the exact threshold where "Overheating" begins. When the request rate crosses the $C_{limit}$​, the Coherence Score drops from 1.0, signaling that the logic has lost its connection to the physical substrate.
 
 **Application:** Use this diagnostic to ensure that any local node or reasoning framework is operating within "Native" limits. It serves as the baseline proof that TR-001 is not just a software model, but a physics-aligned architecture.
+
+### **The Substrate Equilibrium (Theoretical Anchor)**
+
+The variables utilized in these scripts are not heuristics; they are derived from the fundamental resolution of the Informational Substrate:
+
+- **The Physical Floor ($c$):** In substrate_test.py, the speed of light is treated as the universal "Shutter Speed." Any logic that attempts to process data faster than the Planck-scale resolution ($L_{P}​/T_{P}$​) induces Decoherence. This is why the script returns a Coherence Score of 0.0 when native limits are exceeded.
+- **The Thermal Ceiling (1.81):** In signature_verify.py, 1.81 represents the point of Symmetric Collapse. When the ratio of Shannon Entropy ($H$) to Semantic Similarity ($σ$) reaches this limit across a 12-link chain, the system can no longer suppress noise. This is the mathematical origin of "Hallucination."
 
 
 - **Hardware:** Review [03_Engineering_and_Protocols](https://github.com/kalybprince/Informational-Monism-Tech-Specs/tree/main/docs/03_Engineering_and_Protocols) for FPGA and ASIC specifications designed for Symmetry-First processing.
