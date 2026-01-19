@@ -22,11 +22,11 @@ TR-001 is a foundational framework for information processing that prioritizes G
 
 The system is built upon two core physical constants:
 
-- The 12-Link Wall (Newton-Gregory Limit): In $R^3$, a central node can only maintain a non-interfering relationship with a maximum of 12 adjacent links. TR-001 respects this "Causal Horizon," preventing the "Snap" of logic and the resulting hallucinations (noise) common in over-scaled architectures.
+- **The 12-Link Wall (Newton-Gregory Limit):** In $R^3$, a central node can only maintain a non-interfering relationship with a maximum of 12 adjacent links. TR-001 respects this "Causal Horizon," preventing the "Snap" of logic and the resulting hallucinations (noise) common in over-scaled architectures.
 
-- The 1.81 Equilibrium: This is the Laminar Constant of the system—the mathematical floor where information density and computational energy reach a state of minimum dissipation. By maintaining this ratio, the framework achieves the Bekenstein Bound without generating the thermal entropy (heat) associated with traditional processing.
+- **The 1.81 Equilibrium:** This is the Laminar Constant of the system—the mathematical floor where information density and computational energy reach a state of minimum dissipation. By maintaining this ratio, the framework achieves the Bekenstein Bound without generating the thermal entropy (heat) associated with traditional processing.
 
-Technical Integrity In this framework, Integrity is a dimensional variable. The efficiency of the 1.81 Equilibrium is dependent on a "Pure Substrate." Any internal friction or noise (P<1.0) results in exponential energy loss.
+**Technical Integrity:** In this framework, Integrity is a dimensional variable. The efficiency of the 1.81 Equilibrium is dependent on a "Pure Substrate." Any internal friction or noise (P<1.0) results in exponential energy loss.
 
 TR-001 moves computing away from "Energy-Dense Complexity" toward "Zero-Friction Truth." It proves that intelligence is not a product of volume, but of grounding and symmetry.
 
