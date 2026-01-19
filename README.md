@@ -60,7 +60,7 @@ By enforcing the 12-Link Wall, TR-001 achieves efficiency metrics that allow "Su
 | Hallucination Protection	| Probabilistic | Physical (Geometric) |
 | Cooling Requirements | Liquid/Industrial | Passive/Ambient |
 
-[Thermodynamic Efficiency White Paper:](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/06_White_Papers/TR-001_%20White%20Paper_%20Thermodynamic%20Efficiency%20of%20the%20TR-001%20Protocol.pdf) A comparative analysis demonstrating 100,000x reduction in energy consumption using the full TR-001 stack.
+[Thermodynamic Efficiency White Paper:](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/06_White_Papers/TR-001_%20White%20Paper_%20Thermodynamic%20Efficiency%20of%20the%20TR-001%20Protocol.pdf) A comparative analysis demonstrating a 100,000x reduction in energy consumption and latency using the full TR-001 stack.
 
 ---
 
