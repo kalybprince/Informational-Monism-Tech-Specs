@@ -99,8 +99,8 @@ This script verifies the Operational Grounding of the system by benchmarking inf
 
 The variables utilized in these scripts are not heuristics; they are derived from the fundamental resolution of the Informational Substrate:
 
-- **The Physical Floor ($c$):** In substrate_test.py, the speed of light is treated as the universal "Shutter Speed." Any logic that attempts to process data faster than the Planck-scale resolution ($L_{P}​/T_{P}$​) induces Decoherence. This is why the script returns a Coherence Score of 0.0 when native limits are exceeded.
-- **The Thermal Ceiling (1.81):** In signature_verify.py, 1.81 represents the point of Symmetric Collapse. When the ratio of Shannon Entropy ($H$) to Semantic Similarity ($σ$) reaches this limit across a 12-link chain, the system can no longer suppress noise. This is the mathematical origin of "Hallucination."
+- **The Physical Floor ($c$):** In [substrate_test.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/substrate_test.py), the speed of light is treated as the universal "Shutter Speed." Any logic that attempts to process data faster than the Planck-scale resolution ($L_{P}​/T_{P}$​) induces Decoherence. This is why the script returns a Coherence Score of 0.0 when native limits are exceeded.
+- **The Thermal Ceiling (1.81):** In [signature_verify.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/signature_verify.py), 1.81 represents the point of Symmetric Collapse. When the ratio of Shannon Entropy ($H$) to Semantic Similarity ($σ$) reaches this limit across a 12-link chain, the system can no longer suppress noise. This is the mathematical origin of "Hallucination."
 
 ---
 
