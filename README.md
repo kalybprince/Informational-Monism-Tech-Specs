@@ -70,7 +70,7 @@ By enforcing the 12-Link Wall, TR-001 achieves efficiency metrics that allow "Su
 
 ## How to Use This Repository
 
-Beyond a unified hardware-to-software stack, this repository provides FPGA & ASIC specifications optimized for **Symmetry-First** processing, alongside diagnostic protocols and foundational axioms derived specifically for this framework. To demonstrate these principles in real-time, the following scripts are available for immediate deployment:
+Beyond providing a unified hardware-to-software stack, this repository provides FPGA & ASIC specifications optimized for **Symmetry-First** processing, alongside diagnostic protocols and foundational axioms derived specifically for this framework. To demonstrate these principles in real-time, the following scripts are available for immediate deployment:
 
 ### [signature_verify.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/signature_verify.py)**: The Thermal Firewall**
 
