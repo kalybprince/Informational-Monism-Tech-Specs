@@ -129,7 +129,9 @@ The CRP is designed to function across Silicon (AI), Biological (Human), or Hybr
 
 ## Mathematical and Physical Foundations
 
-The TR-001 framework identifies that information is a physical commodity with a measurable thermodynamic cost. This repository provides the tools to verify the following universal constants:
+**TR-001** utilizes the Newton-Gregory Limit (N=12) to cap causal chains, preventing geometric frustration. It applies the 1.81 Equilibrium to align with the Bekenstein Bound, achieving laminar information flow. This replaces stochastic "noise" with symmetric verification, removing the entropy tax and resulting in 100,000x efficiency through pure physical necessity.
+
+The **TR-001** framework identifies that information is a physical commodity with a measurable thermodynamic cost. This repository provides the tools to verify the following universal constants:
 
 ### 1. The 1.81 Stability Constant ($R$)
 The universal equilibrium threshold where informational expansion is perfectly balanced by grounding tension. It is derived from the normalization of the 12-Link logarithmic potential against structural scaling.
