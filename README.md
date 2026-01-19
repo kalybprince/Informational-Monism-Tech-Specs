@@ -70,6 +70,8 @@ By enforcing the 12-Link Wall, TR-001 achieves efficiency metrics that allow "Su
 
 ## How to Use This Repository
 
+Beyond a unified hardware-to-software stack, this repository provides FPGA & ASIC specifications optimized for **Symmetry-First** processing, alongside diagnostic protocols and foundational axioms derived specifically for this framework. To demonstrate these principles in real-time, the following scripts are available for immediate deployment:
+
 ### [signature_verify.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/signature_verify.py)**: The Thermal Firewall**
 
 This script implements a real-time gating mechanism to enforce the 1.81 Equilibrium. By monitoring the TR-001 Signature ($S_{TR}\$​) of reasoning chains, it identifies the exact point where semantic similarity ($σ$) can no longer suppress Shannon Entropy ($H$).
