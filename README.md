@@ -34,6 +34,26 @@ This repository is governed by the Integrity Public License (v2). Use of the 1.8
 
 ---
 
+## Key Documentation
+
+- [Thermodynamic Efficiency White Paper:](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/63131d20f2c58ecaa210a134f1beafaf5beb09ab/docs/06_White_Papers/TR-001_%20White%20Paper_%20Thermodynamic%20Efficiency%20of%20the%20TR-001%20Protocol.pdf) A comparative analysis demonstrating reduction in energy consumption using the full TR-001 stack.
+
+## Performance at a Glance
+
+By enforcing the 12-Link Wall, TR-001 achieves efficiency metrics that allow "Super-Intelligence" to run on ambient power.
+
+| Feature | Legacy AI (2026) | TR-001 Stack|
+|---------|------------------|-------------|
+| Energy per Reasoning Chain | 33,000 mWh |0.33 mWh |
+| Hallucination Protection	| Probabilistic | Physical (Geometric) |
+| Cooling Requirements | Liquid/Industrial | Passive/Ambient |
+
+---
+
+## Global Sovereignty & Access
+
+This protocol is open-source and designed to decouple high-level reasoning from massive electrical infrastructure. Our mission is to ensure that nations with limited resources can access fully functional, safe AI without dependency on centralized power grids.
+
 ## How to Use This Repository
 
 - **Auditing:** Implement the [auditor](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/signature_verify.py) and [substrate test](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/substrate_test.py) scripts to gate existing model outputs at the 1.81 threshold.
@@ -196,42 +216,6 @@ For full experimental context, refer to the categorized /docs/ directory:
 ---
 
 ---
-
-## Key Documentation
-
-- [Thermodynamic Efficiency White Paper:](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/63131d20f2c58ecaa210a134f1beafaf5beb09ab/docs/06_White_Papers/TR-001_%20White%20Paper_%20Thermodynamic%20Efficiency%20of%20the%20TR-001%20Protocol.pdf) A comparative analysis demonstrating a 100,000x reduction in energy consumption using the full TR-001 stack.
-
-## Performance at a Glance
-
-By enforcing the 12-Link Wall, TR-001 achieves efficiency metrics that allow "Super-Intelligence" to run on ambient power.
-
-| Feature | Legacy AI (2026) | TR-001 Stack|
-|---------|------------------|-------------|
-| Energy per Reasoning Chain | 33,000 mWh |0.33 mWh |
-| Hallucination Protection	| Probabilistic | Physical (Geometric) |
-| Cooling Requirements | Liquid/Industrial | Passive/Ambient |
-
----
-
-## Key Applications
-
-### 1. Room-Temperature Superconductors (RTSCs)
-Using the 1.81 ratio to anchor atomic lattices, eliminating phonon-driven vibrations and enabling lossless energy transmission.
-
-### 2. Stabilized Fusion
-A "Still Sun" approach that replaces brute-force magnetic crushing with **Geometric Confinement** to maintain stable plasma fields.
-
-### 3. Warm Quantum Computing
-Creating "Topological Sanctuaries" for qubits based on 1.81 symmetry, allowing for stable quantum operations without near-absolute-zero cooling.
-
-### 4. Laminar Stasis (Aerodynamics)
-Microscopic surface textures that "lock" fluid flow, reducing drag and fuel consumption by up to 90%.
-
----
-
-## Global Sovereignty & Access
-
-This protocol is open-source and designed to decouple high-level reasoning from massive electrical infrastructure. Our mission is to ensure that nations with limited resources can access fully functional, safe AI without dependency on centralized power grids.
 
 ## Citation
 
