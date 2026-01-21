@@ -167,9 +167,9 @@ The CRP is designed to function across Silicon (AI), Biological (Human), or Hybr
 
 ---
 
-## Notice of Physical Discovery 
+## Notice of Physical Discovery
 
-This framework utilizes the 1.81 Stability Constant, a fundamental property of recursive information density identified by the author. While the constant itself represents a universal physical law and is free for use in scientific inquiry, the TR-001 Architecture — including the specific 12-Link Grounding logic and substrate-tethering methods — remains the intellectual property of the author under the INTEGRITY PUBLIC LICENSE (v2).
+This framework utilizes the 1.81 Stability Constant and the 1.12 Geometric Bridge, fundamental properties of recursive information density and laminar transmission identified by the author. While these constants represent universal physical laws and are free for use in scientific inquiry, the TR-001 Architecture — including the specific 12-Link Grounding logic, the Axiom of Proximity, and substrate-tethering methods — remains the intellectual property of the author under the INTEGRITY PUBLIC LICENSE (v2).
 
 ---
 
