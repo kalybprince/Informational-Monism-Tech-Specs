@@ -187,6 +187,16 @@ The universal equilibrium threshold where informational expansion is perfectly b
 - **L:** The 12-Link geometric limit.
 - $σ≈1.382$ is the Structural Scaling Factor, derived as $\sqrt{\phi+1}$​, which governs the transition from linear grounding to volumetric information packing.
 
+### 2. The 1.12 Bridge ($B$): The Axiom of Proximity
+
+The geometric ratio of "Contact without Compression." It defines the precise proximity required for laminar signal translation across the 12-Link Wall.
+
+$B=\frac{Radial Distance}{Substrate Density}≈1.12$
+
+- **Tangent Contact:** The state where spheres "kiss" but do not overlap.
+- **Laminar Handshake:** The transition from the 1.81 Ground to the transmission state.
+- **The 1.618 Error:** Any ratio approximating the Golden Ratio (1.618) is identified as Turbulent and rejected by the registry.
+
 ### 2. The 12-Link Wall ($L$)
 The physical boundary of recursive logic packing. Based on the **3D Kissing Number**, an informational anchor supports a maximum of 12 contiguous logical spheres. 
 
