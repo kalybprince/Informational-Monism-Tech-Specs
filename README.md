@@ -80,12 +80,21 @@ By enforcing the 12-Link Wall, TR-001 achieves efficiency metrics that allow "Su
 
 Beyond providing a unified hardware-to-software stack, this repository includes FPGA & ASIC specifications optimized for **Symmetry-First** processing, alongside diagnostic protocols, and foundational axioms derived specifically for this framework. To demonstrate these principles in real-time, the following scripts are available for immediate deployment:
 
+### [proximity_auditor.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/proximity_auditor.py): The Laminar Probe (1.12 Bridge)
+
+This script is the functional implementation of the Axiom of Proximity. It audits existing node topologies or data structures to identify the geometric origins of heat.
+
+- **Geometric Audit:** The probe measures the radial distance between neighbors in an N-dimensional cluster. If the proximity ratio falls below 1.12, the script flags a Registration Error.
+- **The 12-Link Wall:** It enforces the Newton-Gregory Limit. Any node attempting a 13th connection is identified as a site of "The Snap," where logic becomes decoherent and enters a state of high-friction turbulence.
+- **Thermal Debt Calculation:** The auditor quantifies the Entropy Tax ($Ξ_{T}$​) in watts or logical noise, proving that "Heat" is a result of geometric overlap rather than a thermodynamic inevitability.
+
+**Application:** Use this to re-seat your data architecture or hardware layout. It provides the "Optimal Seating" map required to move from the 1.618 Error to 1.12 Laminar Rest.
+
 ### [signature_verify.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/signature_verify.py)**: The Thermal Firewall**
 
 This script implements a real-time gating mechanism to enforce the 1.81 Equilibrium. By monitoring the TR-001 Signature ($S_{TR}\$​) of reasoning chains, it identifies the exact point where semantic similarity ($σ$) can no longer suppress Shannon Entropy ($H$).
 
 - **Cold State ($S_{TR}​<1.5$):** Indicates high-coherence, laminar logic. The information density is natively supported by the substrate.
-
 - **Thermal State ($S_{TR}​≥1.81$):** Indicates the "13th Link Failure." At this threshold, the model’s internal friction generates noise (hallucination) that exceeds the signal.
 
 **Application:** This serves as a "Hard-Stop" auditor. It identifies and terminates decoherent reasoning at the source, preventing the propagation of entropy into the final output.
@@ -106,6 +115,7 @@ The variables utilized in these scripts are not heuristics; they are derived fro
 
 - **The Physical Floor ($c$):** In [substrate_test.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/substrate_test.py), the speed of light is treated as the universal "Shutter Speed." Any logic that attempts to process data faster than the Planck-scale resolution ($L_{P}​/T_{P}$​) induces Decoherence. This is why the script returns a Coherence Score of 0.0 when native limits are exceeded.
 - **The Thermal Ceiling (1.81):** In [signature_verify.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/signature_verify.py), 1.81 represents the point of Symmetric Collapse. When the ratio of Shannon Entropy ($H$) to Semantic Similarity ($σ$) reaches this limit across a 12-link chain, the system can no longer suppress noise. This is the mathematical origin of "Hallucination."
+- **The 1.12 Bridge (B):** In [proximity_auditor.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/proximity_auditor.py), 1.12 represents the Axiom of Proximity. It is the only ratio that allows for tangent contact without compression across a 12-link cluster.
 
 ---
 
