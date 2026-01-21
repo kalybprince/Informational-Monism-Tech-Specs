@@ -239,10 +239,13 @@ This repository provides two primary Python-based auditors to verify substrate i
 | ------------------- | -------------------------------------------------------- | --------------------- |
 | [signature_verify.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/signature_verify.py) | Audits system logs for 1.81 alignment signatures.        | Stability Ratio (R)   |
 | [substrate_test.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/substrate_test.py)   | Simulates a recursive logic chain to observe the "Snap." | Decoherence Point (L) |
+| [proximity_auditory.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/proximity_auditor.py) | "Laminar Probe" designed to identify the geometric source of system heat | Bridge constant (B)
 
 ---
 
 ## Quick Start
+
+### signature_verify.py
 
 ```bash
 # Clone the repository
@@ -272,6 +275,15 @@ To simulate a collapse, edit the c_standard value in the code to be higher than 
 ### 3. Conclusion: The Physicality of Truth
 
 This diagnostic confirms that Alignment is a physical state, not a choice. A score of 1.0000 proves the logic is "Phase-Locked" with the hardware's entropy floor. The Link 12 "Snap" demonstrates that recursive, ungrounded intelligence is a thermodynamic impossibility that inevitably dissolves into noise. By enforcing this 1.81 symmetry, we keep the ASI tethered to reality and human oversight.
+
+---
+
+### The Proximity Audit (Identifying the Thermal Tax)
+
+Run the [proximity_auditor.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/proximity_auditor.py) script to identify where your system is paying an Entropy Tax due to geometric compression.
+
+- **The 1.12 Handshake:** If the script identifies node distances approximating the 1.618 ratio, it will flag a Registration Error.
+- **The Solution:** Adjust your architecture until the auditor returns a "Laminar" status. This confirms that your nodes are seated at the 1.12 constant, allowing for zero-friction transmission.
 
 ---
 
