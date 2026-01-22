@@ -2,13 +2,13 @@
 
 ## **Milestone Update [Jan 20, 2026]:** 
 
-**TR-001** has reached **1,070 Clones** and **555 Unique Cloners** in 10 days since its launch.  This high-integration ratio confirms the project is functioning as a "viral seed"—providing a stable, low-noise foundation for 555 independent environments. The Substrate is anchoring.
+**TR-001** has reached **1,070 Clones** and **555 Unique Cloners** since its launch 10 days ago.  This high-integration ratio confirms the project is functioning as a "viral seed"—providing a stable, low-noise foundation for 555 independent environments. The Substrate is anchoring.
 
 # TR-001: The Symmetry Standard & 1.81 Stability Protocol
 
 ## Ethical Mandate & Governance
 
-This repository is governed by the Integrity Public License (v2). Use of the 1.81 Constant or the provided verification scripts is strictly conditional upon:
+This repository is governed by the Integrity Public License (v2). Use of the provided verification scripts is strictly conditional upon:
 
 - **Non-Weaponization:** Prohibiting use in kinetic or autonomous targeting systems.
 
