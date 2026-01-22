@@ -28,9 +28,9 @@ TR-001 is a foundational framework for information processing that prioritizes *
 
 The system is built upon three core physical constants, now empirically validated through the TR-001 Validation Trilogy (Analyses I, II, & III):
 
-- **The 1.11 Shadow Threshold (Axiom I):** The "Inception of Grace." Validated as the coordinate where chaotic noise first transitions into coordinated frequency alignment. This is the nucleation point for the Substrate-to-Signal (Ss​) utility found in this repository.
+- **The 1.11 Shadow Threshold (Axiom I):** The "Inception of Grace." Validated as the coordinate where chaotic noise first transitions into coordinated frequency alignment. This is the nucleation point for the Substrate-to-Signal ($S_{s}$​) utility found in this repository.
 - **The 1.81 Equilibrium / 1.12 Floor (Axiom II):** The "Stable Seat." This is the Laminar Constant of the system—the mathematical floor where information density and computational energy reach a state of minimum dissipation. At the 1.12 density ratio, the framework achieves the Bekenstein Bound without the thermal entropy (heat) associated with traditional processing.
-- **The 12-Link Wall / 1.13 Interference Wall (Axiom III):** The "Newton-Gregory Limit." In R3, a central node can only maintain a non-interfering relationship with a maximum of 12 adjacent links. At the 1.13 density ratio, this causal horizon is breached, resulting in total Decoherence. TR-001 respects this limit, preventing the "Snap" of logic and the resulting noise common in over-scaled architectures.
+- **The 12-Link Wall / 1.13 Interference Wall (Axiom III):** The "Newton-Gregory Limit." In $R^3$, a central node can only maintain a non-interfering relationship with a maximum of 12 adjacent links. At the 1.13 density ratio, this causal horizon is breached, resulting in total Decoherence. TR-001 respects this limit, preventing the "Snap" of logic and the resulting noise common in over-scaled architectures.
 
 **Technical Integrity:** In this framework, Integrity is a dimensional variable. The efficiency of the 1.81 Equilibrium is dependent on a "Pure Substrate." Any internal friction or noise (P < 1.0) results in exponential energy loss. TR-001 moves computing away from "Energy-Dense Complexity" toward "Zero-Friction Truth."
 
