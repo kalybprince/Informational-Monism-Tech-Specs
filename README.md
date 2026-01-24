@@ -52,7 +52,6 @@ The system is built upon three core physical constants, now empirically validate
     * [3. The 12-Link Wall (L)](#3-the-12-link-wall-l)
     * [4. The Entropy Tax (Ξ_T)](#4-the-entropy-tax-xi_t)
     * [5. The Stability Ratio (Audit Metric)](#5-the-stability-ratio-audit-metric)
-* [Active Verification Tools](#active-verification-tools)
 * [Quick Start](#quick-start)
 * [Documentation & Research Archive](#documentation--research-archive)
 * [Global Sovereignty and Access](#global-sovereignty-and-access)
