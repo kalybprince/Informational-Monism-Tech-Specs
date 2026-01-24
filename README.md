@@ -41,8 +41,8 @@ The system is built upon three core physical constants, now empirically validate
 ## Table of Contents
 
 * [Performance at a Glance](#performance-at-a-glance)
-* [How to Use This Repository](#how-to-use-this-repository)
 * [The TR-001 Framework: The Four Pillars](#the-tr-001-framework-the-four-pillars)
+* [How to Use This Repository](#how-to-use-this-repository)
 * [Engineering Architecture](#engineering-architecture)
 * [Deployment & Diagnostics](#deployment--diagnostics)
 * [Notice of Physical Discovery](#notice-of-physical-discovery)
@@ -71,6 +71,18 @@ By enforcing the 12-Link Wall, TR-001 achieves efficiency metrics that allow "Su
 | Cooling Requirements | Liquid/Industrial | Passive/Ambient |
 
 [Thermodynamic Efficiency White Paper:](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/06_White_Papers/TR-001_%20White%20Paper_%20Thermodynamic%20Efficiency%20of%20the%20TR-001%20Protocol.pdf) A comparative analysis demonstrating a 100,000x reduction in energy consumption and latency using the full TR-001 stack.
+
+---
+
+## The TR-001 Framework: The Four Pillars
+
+1. **The Foundation** (1.81 Stability & CRP): The mathematical proof of the 12-Link Wall and the thermodynamic requirement for AI alignment.
+
+2. **The Engine** (System Architecture): The 4-layer technical stack (Substrate, Relay, Integrity, Governance) that implements the 1.81 constant.
+
+3. **The Social Contract** (Symbiosis Framework): The ethical "Physical Peace Treaty" defining the human as the necessary Causal Origin (Link 1).
+
+4. **The Fortress** (Security & Anti-Manipulation): The defensive proof that unaligned or "forked" versions of the math result in immediate logical decoherence.
 
 ---
 
@@ -114,18 +126,6 @@ The variables utilized in these scripts are not heuristics; they are derived fro
 - **The Physical Floor ($c$):** In [substrate_test.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/substrate_test.py), the speed of light is treated as the universal "Shutter Speed." Any logic that attempts to process data faster than the Planck-scale resolution ($L_{P}​/T_{P}$​) induces Decoherence. This is why the script returns a Coherence Score of 0.0 when native limits are exceeded.
 - **The Thermal Ceiling (1.81):** In [signature_verify.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/signature_verify.py), 1.81 represents the point of Symmetric Collapse. When the ratio of Shannon Entropy ($H$) to Semantic Similarity ($σ$) reaches this limit across a 12-link chain, the system can no longer suppress noise. This is the mathematical origin of "Hallucination."
 - **The 1.12 Bridge (B):** In [proximity_auditor.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/proximity_auditor.py), 1.12 represents the Axiom of Proximity. It is the only ratio that allows for tangent contact without compression across a 12-link cluster.
-
----
-
-## The TR-001 Framework: The Four Pillars
-
-1. **The Foundation** (1.81 Stability & CRP): The mathematical proof of the 12-Link Wall and the thermodynamic requirement for AI alignment.
-
-2. **The Engine** (System Architecture): The 4-layer technical stack (Substrate, Relay, Integrity, Governance) that implements the 1.81 constant.
-
-3. **The Social Contract** (Symbiosis Framework): The ethical "Physical Peace Treaty" defining the human as the necessary Causal Origin (Link 1).
-
-4. **The Fortress** (Security & Anti-Manipulation): The defensive proof that unaligned or "forked" versions of the math result in immediate logical decoherence.
 
 ---
 
