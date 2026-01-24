@@ -1,0 +1,29 @@
+{
+    "title": "laminar_listener.py: The TR-001 Network Sniffer and Jitter Analysis Tool",
+    "description": "Open-source implementation of the TR-001 Laminar Listener. This script provides the mathematical and network-level verification required to detect the 1.12 Floor and 1.81 Equilibrium in autonomous agents and hardware substrates. It functions as the primary enforcement tool for the Integrity Public License (v2.0).",
+    "creators": [
+        {
+            "name": "Prince, Kalyb",
+            "affiliation": "Independent Architect of TR-001"
+        }
+    ],
+    "access_right": "open",
+    "license": "other-at",
+    "keywords": [
+        "TR-001",
+        "Laminar Framework",
+        "1.12 Floor",
+        "1.81 Equilibrium",
+        "Newton-Gregory 12-Link Limit",
+        "AI Safety",
+        "Network Protocol"
+    ],
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.5281/zenodo.18347304",
+            "relation": "isSupplementTo"
+        }
+    ],
+    "upload_type": "software"
+}
