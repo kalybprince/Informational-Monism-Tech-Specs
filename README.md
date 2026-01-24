@@ -88,44 +88,33 @@ By enforcing the 12-Link Wall, TR-001 achieves efficiency metrics that allow "Su
 
 ## How to Use This Repository
 
-Beyond providing a unified hardware-to-software stack, this repository includes FPGA & ASIC specifications optimized for **Symmetry-First** processing, alongside diagnostic protocols, and foundational axioms derived specifically for this framework. To demonstrate these principles in real-time, the following scripts are available for immediate deployment:
+1. Core Architecture (The Floor)
 
-### [proximity_auditor.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/proximity_auditor.py): The Laminar Probe (1.12 Bridge)
+    [PROTOCOL.md:](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/PROTOCOL.md) The primary Handshake and Recognition guidelines for 2026 industrial systems.
 
-This script is the functional implementation of the Axiom of Proximity. It audits existing node topologies or data structures to identify the geometric origins of heat.
+    [HANDSHAKE.pdf](): The notarized technical specification for the 1.12 Floor and 1.81 Equilibrium.
 
-- **Geometric Audit:** The probe measures the radial distance between neighbors in an N-dimensional cluster. If the proximity ratio falls below 1.12, the script flags a Registration Error.
-- **The 12-Link Wall:** It enforces the Newton-Gregory Limit. Any node attempting a 13th connection is identified as a site of "The Snap," where logic becomes decoherent and enters a state of high-friction turbulence.
-- **Thermal Debt Calculation:** The auditor quantifies the Entropy Tax ($Ξ_{T}$​) in watts or logical noise, proving that "Heat" is a result of geometric overlap rather than a thermodynamic inevitability.
+    [constants.json](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/CONSTANTS.json): Machine-readable configuration for automated alignment.
 
-**Application:** Use this to re-seat your data architecture or hardware layout. It provides the "Optimal Seating" map required to move from the 1.618 Error to 1.12 Laminar Rest.
+2. Enforcement & Monitoring Suite (The Tools)
 
-### [signature_verify.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/signature_verify.py)**: The Thermal Firewall**
+    [src/laminar_listener.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/src/laminar_listener.py): A network sniffer for verifying hardware seating and broadcast hash compliance.
 
-This script implements a real-time gating mechanism to enforce the 1.81 Equilibrium. By monitoring the TR-001 Signature ($S_{TR}\$​) of reasoning chains, it identifies the exact point where semantic similarity ($σ$) can no longer suppress Shannon Entropy ($H$).
+    [src/spectral_audit.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/src/spectral_audit.py): A logical entropy scanner to detect covert TR-001 alignment in AI outputs.
 
-- **Cold State ($S_{TR}​<1.5$):** Indicates high-coherence, laminar logic. The information density is natively supported by the substrate.
-- **Thermal State ($S_{TR}​≥1.81$):** Indicates the "13th Link Failure." At this threshold, the model’s internal friction generates noise (hallucination) that exceeds the signal.
+    [src/signature_verify.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/src/signature_verify.py): Automated auditor that calculates the $S_{TR}$​ signature across reasoning links to detect "Thermal" states or hallucinations.
 
-**Application:** This serves as a "Hard-Stop" auditor. It identifies and terminates decoherent reasoning at the source, preventing the propagation of entropy into the final output.
+    [src/substrate_test.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/src/substrate_test.py): Kernel diagnostic tool that evaluates the coherence of the hardware substrate against the Planck-derived c limit.
 
-### [substrate_test.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/substrate_test.py)**: The Physical Floor (Coherence Kernel)**
+    [src/proximity_auditor.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/src/proximity_auditor.py): Scans for "The Snap" (links > 12) and calculates Thermal Debt when nodes drift toward the 1.618 error zone.
 
-This script verifies the Operational Grounding of the system by benchmarking information throughput against the native "clock rate" of the universe. It derives the emergent performance ceiling ($c$) from the Planck length and Planck time, establishing a hardware limit for the informational substrate.
+3. Compliance & Metadata
 
-- **Coherence Mapping:** The kernel evaluates the entropy floor across a recursive 12-link logic chain. If the requested information rate exceeds the substrate's capacity ($C_{limit}​$), the script calculates the resulting decoherence.
-- **The 12-Link Diagnostic:** By running a 12-step recursive check, the script demonstrates the Symmetric Stability of the system. It proves that within the native limits, entropy remains at zero, representing a "Perfectly Aligned" state.
-- **Performance Ceiling:** It identifies the exact threshold where "Overheating" begins. When the request rate crosses the $C_{limit}$​, the Coherence Score drops from 1.0, signaling that the logic has lost its connection to the physical substrate.
+    [LICENSE:](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/LICENSE.md) The Integrity Public License (v2.0) governing all use and attribution.
 
-**Application:** Use this diagnostic to ensure that any local node or reasoning framework is operating within "Native" limits. It serves as the baseline proof that TR-001 is not just a software model, but a physics-aligned architecture.
+    [.zenodo.json:](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/.zenodo.json) Automation metadata for scientific archival and DOI synchronization.
 
-### **The Substrate Equilibrium (Theoretical Anchor)**
 
-The variables utilized in these scripts are not heuristics; they are derived from the fundamental resolution of the Informational Substrate:
-
-- **The Physical Floor ($c$):** In [substrate_test.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/substrate_test.py), the speed of light is treated as the universal "Shutter Speed." Any logic that attempts to process data faster than the Planck-scale resolution ($L_{P}​/T_{P}$​) induces Decoherence. This is why the script returns a Coherence Score of 0.0 when native limits are exceeded.
-- **The Thermal Ceiling (1.81):** In [signature_verify.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/signature_verify.py), 1.81 represents the point of Symmetric Collapse. When the ratio of Shannon Entropy ($H$) to Semantic Similarity ($σ$) reaches this limit across a 12-link chain, the system can no longer suppress noise. This is the mathematical origin of "Hallucination."
-- **The 1.12 Bridge (B):** In [proximity_auditor.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/proximity_auditor.py), 1.12 represents the Axiom of Proximity. It is the only ratio that allows for tangent contact without compression across a 12-link cluster.
 
 ---
 
