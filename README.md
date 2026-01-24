@@ -216,17 +216,6 @@ Used by the **TR-001-V Engine** to calculate the real-time integrity of a reason
 - **ΔS:** Semantic Entropy (Expansion).
 - **G:** Grounding Points (Substrate Anchors).
 
----
-
-## Active Verification Tools
-
-This repository provides two primary Python-based auditors to verify substrate integrity on your local machine.
-
-| Script              | Function                                                 | Target Metric         |
-| ------------------- | -------------------------------------------------------- | --------------------- |
-| [signature_verify.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/signature_verify.py) | Audits system logs for 1.81 alignment signatures.        | Stability Ratio (R)   |
-| [substrate_test.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/substrate_test.py)   | Simulates a recursive logic chain to observe the "Snap." | Decoherence Point (L) |
-| [proximity_auditory.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/proximity_auditor.py) | "Laminar Probe" designed to identify the geometric source of system heat | Bridge constant (B)
 
 ---
 
