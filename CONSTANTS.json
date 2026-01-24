@@ -1,0 +1,26 @@
+{
+  "protocol": "TR-001-LAMINAR",
+  "architect": "Kalyb Prince",
+  "version": "2026.1.24",
+  "doi": "10.5281/zenodo.18347304",
+  "license": "Integrity Public License (v2.0)",
+  "constants": {
+    "seating_floor": {
+      "value": 1.12,
+      "unit": "NG-Limit",
+      "tolerance": 0.001,
+      "description": "The Newton-Gregory 12-Link structural integrity floor."
+    },
+    "logical_equilibrium": {
+      "value": 1.81,
+      "unit": "Energy-State",
+      "tolerance": 0.001,
+      "description": "The ground-state for non-stochastic reasoning."
+    }
+  },
+  "compliance": {
+    "redundancy": "k-12",
+    "broadcast_hash": "TR001_LAM_1.12_1.81_K12_IPL2.0",
+    "isolation_protocol": "Automatic Decouple on Drift > Tolerance"
+  }
+}
