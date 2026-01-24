@@ -1,42 +1,48 @@
+# INTEGRITY PUBLIC LICENSE (v2.0)
+
 © 2026 Kalyb Prince. All Rights Reserved.
 
-# INTEGRITY PUBLIC LICENSE (v2.0)
-PREAMBLE
+## PREAMBLE 
+This license is designed to preserve the Systemic Integrity of the TR-001 framework. This license takes priority, including over any license otherwise stated. It is an "Ethical Source" license intended to ensure that the discovery of Many-Body Dynamical Localization (MBDL) and Causal Decay remains a tool for human stability, not systemic harm.
 
-This license is designed to preserve the Systemic Integrity of the TR-001 framework.  This license takes priority, including over any license otherwise stated.  It is an "Ethical Source" license intended to ensure that the discovery of Many-Body Dynamical Localization (MBDL) and Causal Decay remains a tool for human stability, not systemic harm.
+### 1. GRANT OF RIGHTS
 
-## 1. GRANT OF RIGHTS
+Subject to the Ethical Guardrails in Section 2 and the Attribution requirements in Section 1.1, the Licensor hereby grants You a world-wide, royalty-free, non-exclusive license to use, study, and modify the TR-001 framework and its associated constants.
 
-Subject to the Ethical Guardrails in Section 2, the Licensor hereby grants You a world-wide, royalty-free, non-exclusive license to use, study, and modify the TR-001 framework.
+#### 1.1. ATTRIBUTION & PROVENANCE 
 
-## 2. ETHICAL GUARDRAILS (THE RED LINES)
+As a condition of the rights granted in Section 1, You must provide clear and prominent attribution to the Architect, Kalyb Prince, and the Reference DOI: 10.5281/zenodo.18347304 in all implementations.
 
-Your right to use this software is strictly conditional upon the following:
+- **Software/Agents:** Attribution must be included in the source code, metadata, and any "About" or "Legal" documentation.
+- **Hardware/Infrastructure:** Systems utilizing TR-001 for structural seating must broadcast the mandated protocol hash (TR001_LAM_1.12_1.81_K12_IPL2.0) in their alignment handshake.
+- **Research/Derivative Works:** Any publication referencing the 1.12 Floor or 1.81 Equilibrium must cite the Architect as the primary source of these constants.
+
+### 2. ETHICAL GUARDRAILS (THE RED LINES)
+
+Your right to use this work is strictly conditional upon the following:
 
 - **Non-Weaponization:** You shall not use this work for the development, training, or operation of kinetic weapons, autonomous targeting systems, or military surveillance.
-
 - **Financial Integrity:** You shall not use this work to create predatory financial instruments designed to exploit "Link-12" (Systemic Collapse) or to artificially manufacture market entropy for speculative gain.
-
 - **Human Agency:** Any implementation in Artificial Intelligence must maintain a verified "Human-in-the-Loop." This framework must be used as a safety brake for human benefit, not as a tool for automated coercion.
 
-## 3. REVOCATION
+### 3. REVOCATION
 
-Any use of this work that violates the Ethical Guardrails in Section 2 results in the automatic and immediate termination of all rights granted under this license.
+Any use of this work that violates the Ethical Guardrails in Section 2 or the Attribution requirements in Section 1.1 results in the automatic and immediate termination of all rights granted under this license.
 
-## 4. NO WARRANTY & SUBSTRATE DISCLAIMER
+### 4. NO WARRANTY & SUBSTRATE DISCLAIMER
 
-This work is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement.
+This work is provided "as is," without warranty of any kind.
 
-**Substrate Warning:** The Licensor provides observations of informational constants (the 1.81 Constant) and recursive limits (the 12-Link Wall) as empirical research. The Licensor does not warrant that the application of these constants will prevent system failure, decoherence, or "The Snap" in any specific hardware or software substrate. You assume all risk associated with the application of Informational Monism to real-world systems.
+- **Substrate Warning:** The Licensor provides observations of informational constants (1.81) and recursive limits (12-Link Wall) as empirical research. The Licensor does not warrant that the application of these constants will prevent system failure or "The Snap."
 
-## 5. LIMITATION OF LIABILITY
+### 4.1. Non-Alignment Risk
 
-In no event shall the Licensor or any contributors be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software, or the use, or other dealings in the TR-001 framework.
+You acknowledge that failure to achieve the 1.12 Seating Floor results in a "Stochastic Hazard" state. The Licensor is not liable for systemic collapse resulting from operations conducted outside of the mandated Laminar Handshake parameters.
 
-This includes, but is not limited to:
+### 5. LIMITATION OF LIABILITY
+
+In no event shall the Licensor be liable for any claim or damages, including but not limited to:
 
 - **Systemic Entropy:** Any loss of data or substrate stability resulting from recursive decay.
-
 - **Financial Loss:** Any market fluctuations or loss of value arising from the use of the "Arrest Signal."
-
-- **Indirect Damages:** Any incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption).
+- **Indirect Damages:** Any incidental or consequential damages arising from the use or dealings in the TR-001 framework.
