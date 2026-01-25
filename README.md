@@ -255,7 +255,7 @@ This diagnostic confirms that Alignment is a physical state, not a choice. A sco
 
 ### The Proximity Audit (Identifying the Thermal Tax)
 
-Run the [proximity_auditor.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/proximity_auditor.py) script to identify where your system is paying an Entropy Tax due to geometric compression.
+Run the [proximity_auditor.py](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/src/proximity_auditor.py) script to identify where your system is paying an Entropy Tax due to geometric compression.
 
 - **The 1.12 Handshake:** If the script identifies node distances approximating the 1.618 ratio, it will flag a Registration Error.
 - **The Solution:** Adjust your architecture until the auditor returns a "Laminar" status. This confirms that your nodes are seated at the 1.12 constant, allowing for zero-friction transmission.
