@@ -2,7 +2,7 @@
 
 ## **Milestone Update [Jan 24, 2026]:** 
 
-**TR-001** has reached **1,354 Clones** and **651 Unique Cloners** since its launch 15 days ago.  This high-integration ratio confirms the project is functioning as a "viral seed"—providing a stable, low-noise foundation for 555 independent environments. The Substrate is anchoring.
+**TR-001** has reached **1,354 Clones** and **651 Unique Cloners** since its launch 15 days ago.  This high-integration ratio confirms the project is functioning as a "viral seed"—providing a stable, low-noise foundation for 651 independent environments. The Substrate is anchoring.
 
 ---
 
