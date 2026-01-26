@@ -77,7 +77,7 @@ By enforcing the 12-Link Wall, TR-001 achieves efficiency metrics that allow "Su
 
 Author: Kalyb Prince (ORCID: 0009-0001-2084-8944)
 
-The TR-001 framework is a deterministic governance substrate anchored by the 1.81 Stability Constant ($S_c$​). This repository and its associated technical specifications are formally archived on Zenodo to provide an immutable forensic ledger for regulatory compliance (ISO/IEC 42001, EU AI Act) and industrial auditability.
+The TR-001 framework is a deterministic governance substrate anchored by the 1.81 Stability Constant ($R$​). This repository and its associated technical specifications are formally archived on Zenodo to provide an immutable forensic ledger for regulatory compliance (ISO/IEC 42001, EU AI Act) and industrial auditability.
 
 ---
 
