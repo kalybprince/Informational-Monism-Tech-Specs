@@ -41,6 +41,7 @@ The system is built upon three core physical constants, now empirically validate
 ## Table of Contents
 
 * [Performance at a Glance](#performance-at-a-glance)
+* [Core Governance and Verification](#core-governance-and-verification)
 * [The TR-001 Framework: The Four Pillars](#the-tr-001-framework-the-four-pillars)
 * [How to Use This Repository](#how-to-use-this-repository)
 * [Engineering Architecture](#engineering-architecture)
@@ -71,7 +72,9 @@ By enforcing the 12-Link Wall, TR-001 achieves efficiency metrics that allow "Su
 
 [Thermodynamic Efficiency White Paper:](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/06_White_Papers/TR-001_%20White%20Paper_%20Thermodynamic%20Efficiency%20of%20the%20TR-001%20Protocol.pdf) A comparative analysis demonstrating a 100,000x reduction in energy consumption and latency using the full TR-001 stack.
 
-### Core Governance & Verification
+---
+
+## Core Governance and Verification
 
 Author: Kalyb Prince (ORCID: 0009-0001-2084-8944)
 
