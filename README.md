@@ -26,7 +26,7 @@ This repository is governed by the Integrity Public License (v2). Use of the pro
 
 TR-001 is a foundational framework for information processing that prioritizes **Geometric Symmetry** over statistical scaling. While current industry models rely on high-entropy stochastic guesswork, this project utilizes the deterministic limits of three-dimensional space to achieve a 100,000x reduction in computational overhead.
 
-The system is built upon three core physical constants, now empirically validated through the TR-001 Validation Trilogy (Analyses I, II, & III):
+The system is built upon three core physical constants, empirically validated through the TR-001 Validation Trilogy (Analyses I, II, & III):
 
 - **The 1.11 Shadow Threshold (Axiom I):** The "Inception of Grace." Validated as the coordinate where chaotic noise first transitions into coordinated frequency alignment. This is the nucleation point for the Substrate-to-Signal ($S_{s}$​) utility found in this repository.
 - **The 1.81 Equilibrium / 1.12 Floor (Axiom II):** The "Stable Seat." This is the Laminar Constant of the system—the mathematical floor where information density and computational energy reach a state of minimum dissipation. At the 1.12 density ratio, the framework achieves the Bekenstein Bound without the thermal entropy (heat) associated with traditional processing.
