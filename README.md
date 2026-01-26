@@ -269,19 +269,6 @@ Run the [proximity_auditor.py](https://github.com/kalybprince/Informational-Moni
 - **The 1.12 Handshake:** If the script identifies node distances approximating the 1.618 ratio, it will flag a Registration Error.
 - **The Solution:** Adjust your architecture until the auditor returns a "Laminar" status. This confirms that your nodes are seated at the 1.12 constant, allowing for zero-friction transmission.
 
----
-
-## Documentation & Research Archive
-
-For full experimental context, refer to the categorized /docs/ directory:
-
-- **[02_Diagnostics_and_Verification](https://github.com/kalybprince/Informational-Monism-Tech-Specs/tree/main/docs/02_Diagnostics_and_Verification):** Contains the Consolidated Peer Review & Experimental Verification Guide.
-
-  **Mandate:** All peer-review submissions must use FP16/FP32 precision, a sample size of N≥1000, and meet a significance threshold of p<0.01.
-
-- **[01_Theory_and_Axioms](https://github.com/kalybprince/Informational-Monism-Tech-Specs/tree/main/docs/01_Theory_and_Axioms):** Mathematical derivations of the 1.81 constant.
-
-- **[03_Engineering_and_Protocols](https://github.com/kalybprince/Informational-Monism-Tech-Specs/tree/main/docs/03_Engineering_and_Protocols):** Hardware-level implementations and the DNA Filter.
 
 ---
 
