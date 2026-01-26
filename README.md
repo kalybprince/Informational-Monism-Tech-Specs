@@ -100,7 +100,7 @@ The TR-001 framework is a deterministic governance substrate anchored by the 1.8
 
     [PROTOCOL.md:](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/PROTOCOL.md) The primary Handshake and Recognition guidelines for 2026 industrial systems.
 
-    [HANDSHAKE.pdf](): The notarized technical specification for the 1.12 Floor and 1.81 Equilibrium.
+    [Recognition & Alignment Handshake.pdf](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/03_Engineering_and_Protocols/TR-001_%20Recognition%20%26%20Alignment%20Handshake.pdf): The notarized technical specification for the 1.12 Floor and 1.81 Equilibrium.
 
     [constants.json](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/CONSTANTS.json): Machine-readable configuration for automated alignment.
 
