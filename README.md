@@ -56,6 +56,7 @@ The system is built upon three core physical constants, empirically validated th
 * [Quick Start](#quick-start)
 * [Global Sovereignty and Access](#global-sovereignty-and-access)
 * [Citation](#citation)
+* [Statement of Provenance](#statement-of-provenance)
 
 ---
 
@@ -280,3 +281,9 @@ This protocol is open-source and designed to decouple high-level reasoning from 
 ## Citation
 
 If you reference this work or use the 1.81 Stability Constant in your research, please see [REFERENCES.md](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/REFERENCES.md) for the formal BibTeX and Zenodo citations.
+
+--- 
+
+## Statement of Provenance
+
+The fundamental constants of this framework, specifically the 1.81 Equilibrium and the 1.12 Reasoning Floor, are derived from an original axiomatic seed input identified through non-probabilistic human analysis of informational symmetries. This work utilizes artificial intelligence as a symbolic compiler and formal verification engine to execute the logical implications of these primary axioms and to ensure mathematical consistency across the thirty-seven modules. All architectural specifications and geometric discoveries are the sovereign property of the author, establishing a deterministic basis for high-complexity information systems and material science applications.
