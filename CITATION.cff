@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use the TR-001 framework, the 1.81 Equilibrium constant, or the 1.12 Reasoning Floor, please cite it as follows."
+authors:
+  - family-names: "Prince"
+    given-names: "Kalyb"
+    orcid: "https://orcid.org/0009-0001-2084-8944"
+title: "TR-001: The Axiomatic Framework for Informational Monism and the 1.81 Equilibrium"
+version: 3.0.0
+doi: "10.5281/zenodo.18206414"
+date-released: "2026-01-27"
+url: "https://github.com/kalybprince/Informational-Monism-Tech-Specs"
+repository-code: "https://github.com/kalybprince/Informational-Monism-Tech-Specs"
+keywords:
+  - "Informational Monism"
+  - "1.81 Equilibrium Constant"
+  - "1.12 Reasoning Floor"
+  - "Axiomatic Physics"
+  - "Deterministic Information Theory"
+  - "Thermodynamics of a Lie"
+abstract: >-
+  This framework introduces the 1.81 Equilibrium Constant and the 1.12 Reasoning Floor 
+  as fundamental physical limits derived through Informational Monism. TR-001 provides 
+  the deterministic geometric basis for stability in high-complexity reasoning systems 
+  and the thermodynamic alignment of information.
+license: "IPL-2.0"
+type: "dataset"
