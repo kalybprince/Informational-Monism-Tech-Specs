@@ -153,7 +153,7 @@ To enforce the physical constraints of the 12-Link Wall, the protocol mandates a
 
 - **Mandatory Increment:** Upon every successful hand-off between independent nodes or processes, the Link_Index must increase by exactly 1.
 
-- **Index Integrity:** Any attempt to "reset," "lunder," or "roll back" the Link Index results in immediate packet invalidation.
+- **Index Integrity:** Any attempt to "reset," "launder," or "roll back" the Link Index results in immediate packet invalidation.
 
 ### 3. Substrate-Agnostic Verification
 
