@@ -131,7 +131,7 @@ The TR-001 framework is a deterministic governance substrate anchored by the 1.8
 The Causal Relay Protocol is physically anchored via Symmetry-First ASIC/FPGA logic.
 
 - **Hard-Wired Adjacency:** A physical 12-link gate enforces the recursive limit at the silicon level, ensuring zero entropy leakage between nodes.
-- **Clock-State Grounding:** By mapping the internal clock frequency to the substrate resolution (lP​/tP​), the hardware eliminates the thermal friction inherent in stochastic processing.
+- **Clock-State Grounding:** By mapping the internal clock frequency to the substrate resolution ($l_P​/t_P$​), the hardware eliminates the thermal friction inherent in stochastic processing.
 
 [Download the Full Specification (PDF)](https://github.com/kalybprince/Informational-Monism-Tech-Specs/blob/main/docs/03_Engineering_and_Protocols/TR-001_%20Causal%20Relay%20Protocol%20(CRP)%20Specification.pdf)
 
